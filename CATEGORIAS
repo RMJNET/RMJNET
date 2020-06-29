@@ -1,7 +1,7 @@
 
 <channels>
 <channel>
-<name>[COLOR indigo]||[/COLOR][COLOR deeppink]||[/COLOR][COLOR orangered]||[/COLOR] [COLOR white]FILMES[/COLOR] [COLOR orangered]||[/COLOR][COLOR deeppink]||[/COLOR][COLOR indigo]||[/COLOR]</name>
+<name>[COLOR steelblue]||[/COLOR][COLOR gold]||[/COLOR][COLOR lightsalmon]||[/COLOR] [COLOR white]FILMES[/COLOR] [COLOR lightsalmon]||[/COLOR][COLOR gold]||[/COLOR][COLOR steelblue]||[/COLOR]</name>
 <thumbnail>https://ia601501.us.archive.org/18/items/filmes_20200629/filmes.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia601509.us.archive.org/18/items/entrar_20200629/fanart.jpg</fanart>
@@ -16,7 +16,7 @@
 
 <channels>
 <channel>
-<name>[COLOR indigo]||[/COLOR][COLOR deeppink]||[/COLOR][COLOR orangered]||[/COLOR] [COLOR white]SÉRIES[/COLOR] [COLOR orangered]||[/COLOR][COLOR deeppink]||[/COLOR][COLOR indigo]||[/COLOR]</name>
+<name>[COLOR steelblue]||[/COLOR][COLOR deeppink]||[/COLOR][COLOR orangered]||[/COLOR] [COLOR white]SÉRIES[/COLOR] [COLOR lightsalmon]||[/COLOR][COLOR gold]||[/COLOR][COLOR steelblue]||[/COLOR]</name>
 <thumbnail>https://ia601501.us.archive.org/18/items/filmes_20200629/series.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia601509.us.archive.org/18/items/entrar_20200629/fanart.jpg</fanart>
@@ -31,7 +31,7 @@
 
 <channels>
 <channel>
-<name>[COLOR indigo]||[/COLOR][COLOR deeppink]||[/COLOR][COLOR orangered]||[/COLOR] [COLOR white]DESENHOS[/COLOR] [COLOR orangered]||[/COLOR][COLOR deeppink]||[/COLOR][COLOR indigo]||[/COLOR]</name>
+<name>[COLOR steelblue]||[/COLOR][COLOR deeppink]||[/COLOR][COLOR orangered]||[/COLOR] [COLOR white]DESENHOS[/COLOR] [COLOR lightsalmon]||[/COLOR][COLOR gold]||[/COLOR][COLOR steelblue]||[/COLOR]</name>
 <thumbnail>https://ia601501.us.archive.org/18/items/filmes_20200629/desenhos.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia601509.us.archive.org/18/items/entrar_20200629/fanart.jpg</fanart>
@@ -46,7 +46,7 @@
 
 <channels>
 <channel>
-<name>[COLOR indigo]||[/COLOR][COLOR deeppink]||[/COLOR][COLOR orangered]||[/COLOR] [COLOR white]ESPORTES[/COLOR] [COLOR orangered]||[/COLOR][COLOR deeppink]||[/COLOR][COLOR indigo]||[/COLOR]</name>
+<name>[COLOR steelblue]||[/COLOR][COLOR deeppink]||[/COLOR][COLOR orangered]||[/COLOR] [COLOR white]ESPORTES[/COLOR] [COLOR lightsalmon]||[/COLOR][COLOR gold]||[/COLOR][COLOR steelblue]||[/COLOR]</name>
 <thumbnail>https://ia601501.us.archive.org/18/items/filmes_20200629/esportes.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia601509.us.archive.org/18/items/entrar_20200629/fanart.jpg</fanart>
