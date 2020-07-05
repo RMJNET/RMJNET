@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn1.vectorstock.com/i/1000x1000/33/55/lion-africa-logo-design-vector-25323355.jpg" group-title="CAMERAS",AFRICA
+http://stream.africam.com:1935/tm/tm.stream_360p/playlist.m3u8?
