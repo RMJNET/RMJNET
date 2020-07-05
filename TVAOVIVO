@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c58e812f5890bb17b7ea47f918a7d1df.png" group-title="CANAIS ABERTOS",SBT
-https://youtu.be/9z_8k1Ir-6U
+https://www.youtube.com/embed/9z_8k1Ir-6U?enablejsapi=1&origin=https%3A%2F%2Fwww.sbt.com.br&widgetid=1
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9db393c3531f10b525f8af8a9d75f0ad.png" group-title="CANAIS ABERTOS",REDE BRASIL
 https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w817599106.m3u8
