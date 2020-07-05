@@ -1,14 +1,7 @@
 #EXTM3U
 
-#PLAYLISTV: pltv-logo="https://ia601501.us.archive.org/18/items/filmes_20200629/tv.png"
-pltv-name="Abertos"
-pltv-description="Lista IPTV"
-pltv-cover="https://ia601509.us.archive.org/18/items/entrar_20200629/fanart.jpg"
-pltv-author="Murdock"
-pltv-email="rmjnet.addon@gmail.com"
-
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c58e812f5890bb17b7ea47f918a7d1df.png" group-title="CANAIS ABERTOS",SBT
-https://r3---sn-uxaxh5g-bpbd.googlevideo.com/videoplayback?expire=1593998462&ei=HigCX5SNAsGixgTRvaegBg&ip=2804%3Ad41%3A7eb8%3Aad00%3Acd37%3Ab6f3%3Abb5e%3Aeccf&id=9z_8k1Ir-6U.1&itag=136&aitags=133%2C134%2C135%2C136%2C137%2C160&source=yt_live_broadcast&requiressl=yes&mh=84&mm=44%2C29&mn=sn-uxaxh5g-bpbd%2Csn-gpv7ener&ms=lva%2Crdu&mv=m&mvi=3&pl=40&gcr=br&initcwndbps=281250&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fmp4&gir=yes&mt=1593976760&fvip=3&keepalive=yes&c=WEB_EMBEDDED_PLAYER&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cgcr%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cgir&sig=AOq0QJ8wRgIhAIm4_ophR0OLt5T_5M-0U1l7IYlI6L47LRVhIT12d-GHAiEAp2DgUTyT9E_KiwugcX48xrxvAVddCytaupDZmsMDdcE%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIgD_sdaG38zuHB3xsLY_7vG_ak2qn3L0McFtsxpumuHI4CIQCmi5EwS4jAWlMlH-GAFOWrFUf6rks9dROUHQeXBP0g7g%3D%3D&alr=yes&cpn=N9AdVoUD5yxLzESJ&cver=20200701&sq=6377150&rn=49&rbuf=24314
+https://youtu.be/9z_8k1Ir-6U
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9db393c3531f10b525f8af8a9d75f0ad.png" group-title="CANAIS ABERTOS",REDE BRASIL
 https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w817599106.m3u8
