@@ -1,26 +1,16 @@
-
 #EXTM3U
 
-#PLAYLISTV: pltv-logo="https://ia601501.us.archive.org/18/items/filmes_20200629/tv.png" pltv-name="Abertos" pltv-description="Lista IPTV" pltv-cover="https://minhalista-storage.nyc3.digitaloceanspaces.com/iptv-list.jpg" pltv-author="Jhenny" pltv-email="shayanne09@gmail.com"
+#PLAYLISTV: pltv-logo="https://ia601501.us.archive.org/18/items/filmes_20200629/tv.png"
+pltv-name="Abertos"
+pltv-description="Lista IPTV"
+pltv-cover="https://ia601509.us.archive.org/18/items/entrar_20200629/fanart.jpg"
+pltv-author="Murdock"
+pltv-email="rmjnet.addon@gmail.com"
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c58e812f5890bb17b7ea47f918a7d1df.png" group-title="CANAIS ABERTOS",SBT
-https://r1---sn-gpv7ener.c.2mdn.net/videoplayback/id/7971484597cb4e9f/itag/347/source/web_video_ads/ctier/L/acao/yes/ip/0.0.0.0/ipbits/0/expire/1625509405/sparams/acao,ctier,expire,hcs,id,ip,ipbits,itag,mh,mip,mm,mn,ms,mv,mvi,pl,shardbypass,source/signature/5A3A97C97F0E2DF76AE7287BD7083D2692200B8F.440343C4A096FF50FDBF2E8648B305443EA26BA2/key/cms1/cms_redirect/yes/hcs/yes/mh/A-/mip/2804:d41:7eb8:ad00:cd37:b6f3:bb5e:eccf/mm/32/mn/sn-gpv7ener/ms/su/mt/1593973337/mv/m/mvi/0/pl/40/shardbypass/yes/file/file.mp4
+https://youtu.be/9z_8k1Ir-6U
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES",filmes 1
-http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9db393c3531f10b525f8af8a9d75f0ad.png" group-title="CANAIS ABERTOS",
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w817599106.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS ABERTOS",FUTURA
-http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/manifest(format=m3u8-aapl).m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS ABERTOS",REDE BRASIL
-http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Categorias",Rede Família
-http://srv9.zoeweb.tv:1935/redefamilia/smil:redefamilia.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Futebol Ao Vivo",Jogos Ao Vivo 2
-http://aovivo.futeboltv.com:8081/live/3/chunks.m3u8?LISTASGLAU
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Futebol Ao Vivo",Jogos Ao Vivo 3
-http://aovivo.futeboltv.com:8081/live/4/chunks.m3u8?LISTASGLAU
 
