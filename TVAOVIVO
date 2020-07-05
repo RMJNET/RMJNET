@@ -11,3 +11,6 @@ http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ac86ed7edabf2d886a3b8430b4f13c91.png" group-title="CANAIS ABERTOS",TV CULTURA
 https://cdn.jmvstream.com/w/LVW-8403/ngrp:LVW8403_bIBvekk9QA_all/chunklist_b2097152.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://blog.cancaonova.com/brasilia/files/2015/06/logo_novo_TVCN.png" group-title="CANAIS ABERTOS",Canção Nova HD
+http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8?KeltecMPIPTV
