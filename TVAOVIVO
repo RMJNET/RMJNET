@@ -18,3 +18,5 @@ http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8?Keltec
 #EXTINF:-1 tvg-id="" tvg-logo="https://lh3.googleusercontent.com/zPSVJFz0W11TOY_ROXn5ttm9wAcBRFjNBf8UaOaPybeWnPsv4M1B8ZUsebz_ViCjfQA" group-title="CANAIS ABERTOS", M2o
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/originals/4e/00/c7/4e00c7cf23077ee6cd6a76e193e832f1.png" group-title="CANAIS ABERTOS", Radio Retro
+http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w119998573.m3u8?
