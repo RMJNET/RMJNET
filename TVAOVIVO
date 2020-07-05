@@ -19,7 +19,7 @@ http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8?Keltec
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/33004b0a1cb3a43b7a1e6b1aef92c128.png" group-title="CANAIS ABERTOS", Record News
-https://www.youtube.com/f7ff9f03-dddc-4834-b613-eaac5b7ec43d
+https://www.youtube.com/watch?v=cI6gbkteAlo&feature=youtu.be
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b0baf19518fb782525c37b40c2f5d9b5.png" group-title="CANAIS ABERTOS", REDETV!
 https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/chunklist_w1326256029_b2793472_DVR.m3u8
