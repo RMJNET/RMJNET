@@ -24,5 +24,3 @@ http://aovivo.futeboltv.com:8081/live/3/chunks.m3u8?LISTASGLAU
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Futebol Ao Vivo",Jogos Ao Vivo 3
 http://aovivo.futeboltv.com:8081/live/4/chunks.m3u8?LISTASGLAU
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Futebol Ao Vivo",Jogos Ao Vivo 5
-http://aovivo.futeboltv.com:8081/live/15/chunks.m3u8?LISTASGLAU
