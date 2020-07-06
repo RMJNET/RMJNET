@@ -34,7 +34,11 @@ https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/chunklist_w13449
 https://livefocamundo.com:8081/8148/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://media-exp1.licdn.com/dms/image/C4E0BAQE39YVSzb1JtQ/company-logo_200_200/0?e=2159024400&v=beta&t=RUIWEa92kxMCHwzLdHGVL1txWnHkweRNHKMIaIT28U4" group-title="CANAIS ABERTOS", Movie Web
+https://livefocamundo.com:8081/8588/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://4.bp.blogspot.com/-O6b1vLp4rRM/XsdMGPXEjaI/AAAAAAAAC1w/ZF_1nR8W7kUECG6l_q8rZGydIl_k0ck4QCLcBGAsYHQ/w1200-h630-p-k-no-nu/Screenshot_2020-05-22-00-47-49.png" group-title="CANAIS ABERTOS", Cine Trianon
-https://livefocamundo.com:8081/8588/tracks-v1a1/mono.m3u8
+https://srv2.zcast.com.br/cleto2085/cleto2085/chunklist_w1804545151.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://1.bp.blogspot.com/-Enl7AUQBwxU/XlQOGaJ0MuI/AAAAAAAACg0/2Md-i_i8HcQW9yE1IEbU7cB100y_3ifzQCLcBGAsYHQ/w1200-h630-p-k-no-nu/2020-02-24%2B14.51.15.png" group-title="CANAIS ABERTOS", CNT
+https://dd8umsy8yf96u.cloudfront.net/live/cnt-curitiba_240p528k/index.m3u8
 
