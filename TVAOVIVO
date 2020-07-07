@@ -9,6 +9,9 @@ https://stream.ec.cx/a/hls1/band.m3u8?expires=1594120794&token=bb400a60c3926a6b4
 #EXTINF:-1 tvg-id="" tvg-logo="https://multicanais.com/wp-content/uploads/2017/12/assistir-globo-online-ao-vivo-24-horas.png" group-title="CANAIS ABERTOS",GLOBO
 https://usb.bozztv.com/kabomtv/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROUw_jMVxS-5M6h48kaTU9mfisuCtWi7us2X4SCzN0fTlx3bE&s" group-title="CANAIS ABERTOS",RECORD
+https://stream.ec.cx/a/hls1/recordsp.m3u8?expires=1594121025&token=89f029ab10a11b93ee597650ec88cb2c
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9db393c3531f10b525f8af8a9d75f0ad.png" group-title="CANAIS ABERTOS",REDE BRASIL
 https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w817599106.m3u8
 
