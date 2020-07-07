@@ -18,6 +18,8 @@ https://live.netcanais.com/FOXSPORTS/tracks-v1a1/mono.m3u8?token=e272796ac98f78f
 #EXTINF:-1 tvg-id="" tvg-logo="https://futebolplayhd.com/imagens-futebol/b16e46dbbc37d4b4b6e1fe359bfa60b7.jpg" group-title="ESPORTES",FOX SPORTS 2
 https://geralorigin.eu-central-1.edge.mycdn.live/mylive/foxsports2hd/video.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://futebolplayhd.com/imagens-futebol/416e310c1b9993f5832243fab7544a09.jpg" group-title="ESPORTES",DAZN
+https://ul.cdn946.net:8443/hls/dftsbx86z8qhvbg.m3u8?s=j2Rw1as5sScMySfBZSTrxQ&e=1594155561
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTpOQl0-bqF08cfUXhh5mo4B4mN618rLh4yKQ&usqp=CAU" group-title="ESPORTES",REAL MADRID TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8#1
