@@ -24,6 +24,11 @@ https://stream.ec.cx/a/hls1/comedycentral.m3u8?expires=1594121590&token=fa90c721
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1024px-CNN_Brasil.svg.png" group-title="CANAIS ABERTOS", CNN Brasil
 https://stream.ec.cx/a/hls1/cnnbrasil.m3u8?expires=1594180485&token=a07c163f0bfd7e356d2a25930f65832a
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1024px-CNN_Brasil.svg.png" group-title="CANAIS ABERTOS", CNN Brasil
+https://stream.ec.cx/a/hls1/globonews.m3u8?expires=1594180752&token=c2b301aad0d44a9431dfd41e68cfce3c
+
+
+
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9db393c3531f10b525f8af8a9d75f0ad.png" group-title="CANAIS ABERTOS",REDE BRASIL
