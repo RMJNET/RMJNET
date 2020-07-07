@@ -24,3 +24,11 @@ https://ul.cdn946.net:8443/hls/dftsbx86z8qhvbg.m3u8?s=j2Rw1as5sScMySfBZSTrxQ&e=1
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTpOQl0-bqF08cfUXhh5mo4B4mN618rLh4yKQ&usqp=CAU" group-title="ESPORTES",REAL MADRID TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8#1
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://3.bp.blogspot.com/-9DxKW3IEWTU/V3M6j1PIJKI/AAAAAAAAtn8/34FjGZ_hoSA7LxQ-XAs5qkqZKiQ79dJdwCKgB/s640/SporTV.png" group-title="ESPORTES",SPORTV
+https://stream.ec.cx/a/hls1/sportv1.m3u8?expires=1594181272&token=f8e371b881fe83aafb7ac6f1992e279c
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.miptv.ws/SporTV_2.png" group-title="ESPORTES",SPORTV 2
+https://stream.ec.cx/a/hls1/sportv2.m3u8?expires=1594181634&token=3c03a3e6812b15e8c56d3a3ff929e415
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.minhaoperadora.com.br/wp-content/uploads/2015/01/canalsportv3hdnaskymgm.jpg" group-title="ESPORTES",SPORTV 3
+https://stream.ec.cx/a/hls1/sportv2.m3u8?expires=1594181634&token=3c03a3e6812b15e8c56d3a3ff929e415
