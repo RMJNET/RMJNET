@@ -36,7 +36,7 @@ https://stream.ec.cx/a/hls1/sportv3.m3u8?expires=1594181806&token=70f5dc927b44a8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTV9xH4LDY5C7MRAXoCZVY39O9SuvPSPpiyhQ&usqp=CAU" group-title="ESPORTES",BAND SPORTS
 https://stream.ec.cx/a/hls1/bandsports.m3u8?expires=1594181905&token=9c9446af1ac29157ed315b107290b39d
 
-X#EXTINF:-1 tvg-id="" tvg-logo="XXXXXXXXXXXXXXXXXXXXXXXX" group-title="ESPORTES",XXXXXXXXXXXXXX
+EXTINF:-1 tvg-id="" tvg-logo="XXXXXXXXXXXXXXXXXXXXXXXX" group-title="ESPORTES",XXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 
