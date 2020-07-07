@@ -21,6 +21,8 @@ https://stream.ec.cx/a/hls1/discoveryhomeihealth.m3u8?expires=1594121475&token=2
 #EXTINF:-1 tvg-id="" tvg-logo="https://img2.gratispng.com/20180604/bpp/kisspng-comedy-central-television-channel-logo-tv-televisi-5b1588fb09b766.2558234715281379790398.jpg" group-title="CANAIS ABERTOS", Comedy Central
 https://stream.ec.cx/a/hls1/comedycentral.m3u8?expires=1594121590&token=fa90c721006464ae8a5c50d40b0930ce
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1024px-CNN_Brasil.svg.png" group-title="CANAIS ABERTOS", CNN Brasil
+https://stream.ec.cx/a/hls1/cnnbrasil.m3u8?expires=1594180485&token=a07c163f0bfd7e356d2a25930f65832a
 
 
 
