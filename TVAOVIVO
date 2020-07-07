@@ -1,10 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://multicanais.com/wp-content/uploads/2017/12/assistir-globo-online-ao-vivo-24-horas.png" group-title="CANAIS ABERTOS",GLOBO
-https://video-weaver.rio01.hls.ttvnw.net/v1/playlist/Cv0EeIjeSJ5Qny8lhVGa1hpCkYdIAcByDMLjJk9HDn7SXjv_QNaKpV2AHx8BHaujaLy3u3uUlJ08nAMgWAqXidKeK4bzFHwj29e2ASti8wIEAZKWoGwFDgar6Y7TPSfejdPLN-HA64uLMLybiDiBaLRxI167jqRMGjdGHrcsKIoA_IJRfwkYvZemYjSd0-3Ct5Un_McWMjs264DObARWuWaDzwwcGJo7pUjubTs0KxL_LubC3Pa39ZYyVMKUL9X6N1FX_aUEnFvVZkGJSVs_3_LqSkMf7UrpruErCfWlz4B9GI8uVNtHXd939eB4ogWkz5SM6ph1rh-R7OSsckmJW6n2QQ3gODkOphPLByBkld8BVEzwJXY-M6cjy9e7TLpkX4CYEr0OtkOyws6DpFN9QLRh3EpBgjYZmagdjXEJq2WLzTC0dBB6wzXsxd3Di-9m0YlEZRn3lnN3NBplfVwpAiBSnGODY25sLojiYg-v17h4AHxpQdCI2amjwR6ohReCXvIcCYAoAXs2Z3SsXVXhIxTSJJoMzbyx0ArZ6LW5ZZgsOEJXTG4udEf7tJx54BdUO0a1Oq8k9nDNldqbo_UWTxeqYmp4c5KnT5YTyZZpGhzXI4FpSKsjo6jcZDYFZlumPZ9hkb8aLu8esUNOlgod5nyJ0eH4wfX9p-pKLNY1qrKhap1PmiYD4ntdDwb4hSan50nt6sld_HN0tUaTxNShPkjPlJs4iuh-xJg8DZ0MgpkKjD-XUb1tasT5rz5ILI5QOT_uMTd8gCHpLDQ5lXxDNMj6cfbCTCMLVjX2YBUFCNFZwitcA_EQEoW4CxcbTz9XkyalfWiPylgYRfODUhBbnxIQwY6GWTdwojFEdB3AeMkWzhoMCUIQh7OBH2z0bM4j.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c58e812f5890bb17b7ea47f918a7d1df.png" group-title="CANAIS ABERTOS",SBT
 http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://multicanais.com/wp-content/uploads/2017/12/assistir-globo-online-ao-vivo-24-horas.png" group-title="CANAIS ABERTOS",GLOBO
+https://live.netcanais.com/GLOBORJ/tracks-v1a1/mono.m3u8?token=2b5f291b39284d6ff53291588db8eab6&expires=1594098219
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9db393c3531f10b525f8af8a9d75f0ad.png" group-title="CANAIS ABERTOS",REDE BRASIL
 https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w817599106.m3u8
