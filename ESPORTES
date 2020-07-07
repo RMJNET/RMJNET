@@ -4,8 +4,7 @@
 https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-b.m3u8?sd=10
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://multicanais.com/wp-content/uploads/2019/04/Assistir-Espn-ao-vivo-online.png" group-title="ESPORTES",ESPN
-https://onair.cds.nowonline.com.br/Content/dsc/Live/Channel(SPOESIHD)/stream_0/init.m4i
-
+https://onair.cds.nowonline.com.br/Content/dsc/Live/Channel(SPOESIHD)/stream_5/Segment-2951526767980000.m4v
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTpOQl0-bqF08cfUXhh5mo4B4mN618rLh4yKQ&usqp=CAU" group-title="ESPORTES",REAL MADRID TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8#1
