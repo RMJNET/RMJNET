@@ -1,0 +1,18 @@
+#EXTINF:-1 tvg-id="" tvg-logo="https://img2.gratispng.com/20180601/cgc/kisspng-paramount-pictures-paramount-channel-television-ch-mountain-logo-5b11a1db31ebe7.6027270915278822032045.jpg" group-title="TV AO VIVO",Paramount Channel
+https://stream.ec.cx/a/hls1/paramount.m3u8?expires=1594187199&token=59d552c6f729da1ba2760da7c1c40a6f
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://omeioartistico.files.wordpress.com/2018/08/logo_space.jpg" group-title="ESPORTES",Space
+https://stream.ec.cx/a/hls1/space.m3u8?expires=1594187280&token=fb2b7efbfd33e117dcb6289b63b2aadc
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://img2.gratispng.com/20180417/lqq/kisspng-universal-channel-television-channel-television-sh-tv-shows-5ad62001d1f0c7.3271560015239823378599.jpg" group-title="ESPORTES",Universal Channel
+https://stream.ec.cx/a/hls1/universal.m3u8?expires=1594187398&token=0c3d7f2ce5a34debac867d536e2fc34d
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tntseries.png" group-title="ESPORTES",TNT Series
+https://stream.ec.cx/a/hls1/tntseries.m3u8?expires=1594187500&token=a7dae6d463f684f276ece9bb2b69ff45
+
+#EXTINF:-1 tvg-id="" tvg-logo="XXXXXXXXXXXXXXXXXXXXXXXX" group-title="ESPORTES",XXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+
+
