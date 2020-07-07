@@ -10,6 +10,12 @@ https://stream.ec.cx/a/hls1/universal.m3u8?expires=1594187398&token=0c3d7f2ce5a3
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tntseries.png" group-title="ESPORTES",TNT Series
 https://stream.ec.cx/a/hls1/tntseries.m3u8?expires=1594187500&token=a7dae6d463f684f276ece9bb2b69ff45
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1032703404328538112/6rYEqx6g_400x400.jpg" group-title="CANAIS ABERTOS",Discovery Home & Health
+https://stream.ec.cx/a/hls1/discoveryhomeihealth.m3u8?expires=1594121475&token=2c805f485b1805fcf09e6ab050a1b385
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://img2.gratispng.com/20180604/bpp/kisspng-comedy-central-television-channel-logo-tv-televisi-5b1588fb09b766.2558234715281379790398.jpg" group-title="CANAIS ABERTOS", Comedy Central
+https://stream.ec.cx/a/hls1/comedycentral.m3u8?expires=1594121590&token=fa90c721006464ae8a5c50d40b0930ce
+
 #EXTINF:-1 tvg-id="" tvg-logo="XXXXXXXXXXXXXXXXXXXXXXXX" group-title="ESPORTES",XXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
