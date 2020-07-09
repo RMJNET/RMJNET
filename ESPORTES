@@ -13,10 +13,10 @@ https://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-p.m3u8?sd
 https://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_720_av-p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://futebolplayhd.com/imagens-futebol/80c5121d2fa5a071d35fd0856f42f425.jpg" group-title="ESPORTES",FOX SPORTS
-https://stream.ec.cx/a/hls1/foxsports1.m3u8?expires=1594181109&token=586b39f828e411e77691dcf4324f91bd
+https://stream.ec.cx/a/hls1/foxsports1.m3u8?expires=1594362949&token=ccb06d5bcf7c2a6c47e1665c8e66324a
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://futebolplayhd.com/imagens-futebol/b16e46dbbc37d4b4b6e1fe359bfa60b7.jpg" group-title="ESPORTES",FOX SPORTS 2
-https://stream.ec.cx/a/hls1/foxsports2.m3u8?expires=1594181000&token=0e2daa1ec952e34dc6c6eae5a3eecf73
+https://stream.ec.cx/a/hls1/foxsports2.m3u8?expires=1594363019&token=2ef6733db3a4bc5cabdc5a63008e6c9f
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://futebolplayhd.com/imagens-futebol/416e310c1b9993f5832243fab7544a09.jpg" group-title="ESPORTES",DAZN
 https://ul.cdn946.net:8443/hls/dftsbx86z8qhvbg.m3u8?s=j2Rw1as5sScMySfBZSTrxQ&e=1594155561
@@ -25,15 +25,15 @@ https://ul.cdn946.net:8443/hls/dftsbx86z8qhvbg.m3u8?s=j2Rw1as5sScMySfBZSTrxQ&e=1
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8#1
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://3.bp.blogspot.com/-9DxKW3IEWTU/V3M6j1PIJKI/AAAAAAAAtn8/34FjGZ_hoSA7LxQ-XAs5qkqZKiQ79dJdwCKgB/s640/SporTV.png" group-title="ESPORTES",SPORTV
-https://stream.ec.cx/a/hls1/sportv1.m3u8?expires=1594181272&token=f8e371b881fe83aafb7ac6f1992e279c
+https://stream.ec.cx/a/hls1/sportv1.m3u8?expires=1594362714&token=875f3babe28f81979efa7f023a7894c0
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.miptv.ws/SporTV_2.png" group-title="ESPORTES",SPORTV 2
-https://stream.ec.cx/a/hls1/sportv2.m3u8?expires=1594181634&token=3c03a3e6812b15e8c56d3a3ff929e415
+https://stream.ec.cx/a/hls1/sportv2.m3u8?expires=1594362808&token=10852b32b775b5cac48b91dde7f50993
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.minhaoperadora.com.br/wp-content/uploads/2015/01/canalsportv3hdnaskymgm.jpg" group-title="ESPORTES",SPORTV 3
-https://stream.ec.cx/a/hls1/sportv3.m3u8?expires=1594181806&token=70f5dc927b44a8f1436384c5d16e4d57
+https://stream.ec.cx/a/hls1/sportv3.m3u8?expires=1594362883&token=9b58017448871cce467ce5e05ee32ecd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTV9xH4LDY5C7MRAXoCZVY39O9SuvPSPpiyhQ&usqp=CAU" group-title="ESPORTES",BAND SPORTS
-https://stream.ec.cx/a/hls1/bandsports.m3u8?expires=1594181905&token=9c9446af1ac29157ed315b107290b39d
+https://stream.ec.cx/a/hls1/bandsports.m3u8?expires=1594363122&token=8028f2914c3fdbc63521083eedc56266
 
 
