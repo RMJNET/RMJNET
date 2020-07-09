@@ -4,22 +4,16 @@
 http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imagem.band.com.br/f_394138.jpg" group-title="CANAIS ABERTOS",BAND
-https://stream.ec.cx/a/hls1/band.m3u8?expires=1594120794&token=bb400a60c3926a6b4b5e04b87c76079c
+https://stream.ec.cx/a/hls1/band.m3u8?expires=1594366117&token=1c5356eb683e9f02e8d9d67fc5068b3e
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://multicanais.com/wp-content/uploads/2017/12/assistir-globo-online-ao-vivo-24-horas.png" group-title="CANAIS ABERTOS",GLOBO
 https://stream.ec.cx/a/hls1/boborj.m3u8?expires=1594180212&token=1f0b7adef10f1472e2b47e0117e10cd9
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROUw_jMVxS-5M6h48kaTU9mfisuCtWi7us2X4SCzN0fTlx3bE&s" group-title="CANAIS ABERTOS",RECORD
-https://stream.ec.cx/a/hls1/recordsp.m3u8?expires=1594121025&token=89f029ab10a11b93ee597650ec88cb2c
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b1/Logotipo_da_Record_News.png" group-title="CANAIS ABERTOS",RECORD NEWS
-https://stream.ec.cx/a/hls1/recordnews.m3u8?expires=1594121256&token=50314b77c0d51e3857e2979991149c0a
+https://stream.ec.cx/a/hls1/recordnews.m3u8?expires=1594366069&token=b18f9488789828681aab65cf89b6a721
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1024px-CNN_Brasil.svg.png" group-title="CANAIS ABERTOS", CNN Brasil
-https://stream.ec.cx/a/hls1/cnnbrasil.m3u8?expires=1594180485&token=a07c163f0bfd7e356d2a25930f65832a
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1024px-CNN_Brasil.svg.png" group-title="CANAIS ABERTOS", CNN Brasil
-https://stream.ec.cx/a/hls1/globonews.m3u8?expires=1594180752&token=c2b301aad0d44a9431dfd41e68cfce3c
+https://stream.ec.cx/a/hls1/cnnbrasil.m3u8?expires=1594365734&token=e13cc2689bd40fd84aa90416a6a2b109
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9db393c3531f10b525f8af8a9d75f0ad.png" group-title="CANAIS ABERTOS",REDE BRASIL
 https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w817599106.m3u8
