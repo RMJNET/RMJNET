@@ -13,7 +13,7 @@ https://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-p.m3u8?sd
 https://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_720_av-p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://futebolplayhd.com/imagens-futebol/80c5121d2fa5a071d35fd0856f42f425.jpg" group-title="ESPORTES",FOX SPORTS
-https://stream.ec.cx/a/hls1/foxsports1.m3u8?expires=1594362949&token=ccb06d5bcf7c2a6c47e1665c8e66324a
+https://stream.ec.cx/a/hls1/foxsports1.m3u8?expires=1594364635&token=f98a184681350e639662543d71f09664
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://futebolplayhd.com/imagens-futebol/b16e46dbbc37d4b4b6e1fe359bfa60b7.jpg" group-title="ESPORTES",FOX SPORTS 2
 https://stream.ec.cx/a/hls1/foxsports2.m3u8?expires=1594363019&token=2ef6733db3a4bc5cabdc5a63008e6c9f
@@ -35,5 +35,26 @@ https://stream.ec.cx/a/hls1/sportv3.m3u8?expires=1594362883&token=9b58017448871c
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTV9xH4LDY5C7MRAXoCZVY39O9SuvPSPpiyhQ&usqp=CAU" group-title="ESPORTES",BAND SPORTS
 https://stream.ec.cx/a/hls1/bandsports.m3u8?expires=1594363122&token=8028f2914c3fdbc63521083eedc56266
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/a/a2/Premiere_combate.png/revision/latest?cb=20130519152220" group-title="ESPORTES",COMBATE
+https://stream.ec.cx/a/hls1/combate.m3u8?expires=1594363332&token=9394bf5bdd105db8030ae2cfae8912b3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://th.bing.com/th/id/OIP.-ZJm-TBZgKLHe5VEfcdQ5QHaEh?w=276&h=180&c=7&o=5&pid=1.7" group-title="ESPORTES",PREMIERE CLUBES
+https://stream.ec.cx/a/hls1/premiereclubes.m3u8?expires=1594363517&token=d220929199771ce48b46ecf59243bb3f
+
+#EXTINF:-1 tvg-id="" tvg-logo="xxxxxxxxxxxxxxxxxxxxxxxxxx" group-title="ESPORTES",PREMIERE 2
+https://stream.ec.cx/a/hls1/premiere2.m3u8?expires=1594364017&token=a82543f24372651d9d011c29e3213a9d
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="xxxxxxxxxxxxxxxxxxxxxxxxxx" group-title="ESPORTES",xxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+#EXTINF:-1 tvg-id="" tvg-logo="xxxxxxxxxxxxxxxxxxxxxxxxxx" group-title="ESPORTES",xxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+#EXTINF:-1 tvg-id="" tvg-logo="xxxxxxxxxxxxxxxxxxxxxxxxxx" group-title="ESPORTES",xxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
 
 
