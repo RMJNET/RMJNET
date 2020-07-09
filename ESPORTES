@@ -42,19 +42,8 @@ https://stream.ec.cx/a/hls1/combate.m3u8?expires=1594363332&token=9394bf5bdd105d
 #EXTINF:-1 tvg-id="" tvg-logo="https://th.bing.com/th/id/OIP.-ZJm-TBZgKLHe5VEfcdQ5QHaEh?w=276&h=180&c=7&o=5&pid=1.7" group-title="ESPORTES",PREMIERE CLUBES
 https://stream.ec.cx/a/hls1/premiereclubes.m3u8?expires=1594363517&token=d220929199771ce48b46ecf59243bb3f
 
-#EXTINF:-1 tvg-id="" tvg-logo="xxxxxxxxxxxxxxxxxxxxxxxxxx" group-title="ESPORTES",PREMIERE 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://multicanais.com/wp-content/uploads/2019/05/Premiere-2-.png" group-title="ESPORTES",PREMIERE 2
 https://stream.ec.cx/a/hls1/premiere2.m3u8?expires=1594364017&token=a82543f24372651d9d011c29e3213a9d
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="xxxxxxxxxxxxxxxxxxxxxxxxxx" group-title="ESPORTES",xxxxxxxxxxxxx
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-
-#EXTINF:-1 tvg-id="" tvg-logo="xxxxxxxxxxxxxxxxxxxxxxxxxx" group-title="ESPORTES",xxxxxxxxxxxxx
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-
-#EXTINF:-1 tvg-id="" tvg-logo="xxxxxxxxxxxxxxxxxxxxxxxxxx" group-title="ESPORTES",xxxxxxxxxxxxx
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-
 
 
 
