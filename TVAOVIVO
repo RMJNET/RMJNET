@@ -7,7 +7,7 @@ http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/live.m3u
 https://stream.ec.cx/a/hls1/band.m3u8?expires=1594366117&token=1c5356eb683e9f02e8d9d67fc5068b3e
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://multicanais.com/wp-content/uploads/2017/12/assistir-globo-online-ao-vivo-24-horas.png" group-title="CANAIS ABERTOS",GLOBO
-https://stream.ec.cx/a/hls1/boborj.m3u8?expires=1594180212&token=1f0b7adef10f1472e2b47e0117e10cd9
+https://stream.ec.cx/a/hls1/boborj.m3u8?expires=1594366286&token=603d511dc24d7a7938a2653750bc91cc
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b1/Logotipo_da_Record_News.png" group-title="CANAIS ABERTOS",RECORD NEWS
 https://stream.ec.cx/a/hls1/recordnews.m3u8?expires=1594366069&token=b18f9488789828681aab65cf89b6a721
@@ -33,8 +33,8 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/33004b0a1cb3a43b7a1e6b1aef92c128.png" group-title="CANAIS ABERTOS", Record News
 https://www.youtube.com/watch?v=cI6gbkteAlo&feature=youtu.be
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b0baf19518fb782525c37b40c2f5d9b5.png" group-title="CANAIS ABERTOS", REDETV!
-https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/chunklist_w1326256029_b2793472_DVR.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://globo-sala-de-imprensa.s3.amazonaws.com/CACHE/images/imagens/logotipos/programas/Logo_6hwes20/8375aeca2f85b91dac73d93bf6125e5b.jpg" group-title="CANAIS ABERTOS", GLOBO NEWS
+https://stream.ec.cx/a/hls1/globonews.m3u8?expires=1594366380&token=4b80f973b0d4d77907b4fb1136ead901
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/468a51d6031a373ec56983564ebf9ff8.jpg" group-title="CANAIS ABERTOS", TV Carioca
 https://5d2c98775bafe.streamlock.net/8180/8180/chunklist_w14385976.m3u8
