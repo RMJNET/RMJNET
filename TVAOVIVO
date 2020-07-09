@@ -12,6 +12,9 @@ https://stream.ec.cx/a/hls1/boborj.m3u8?expires=1594366286&token=603d511dc24d7a7
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b1/Logotipo_da_Record_News.png" group-title="CANAIS ABERTOS",RECORD NEWS
 https://stream.ec.cx/a/hls1/recordnews.m3u8?expires=1594366069&token=b18f9488789828681aab65cf89b6a721
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://globo-sala-de-imprensa.s3.amazonaws.com/CACHE/images/imagens/logotipos/programas/Logo_6hwes20/8375aeca2f85b91dac73d93bf6125e5b.jpg" group-title="CANAIS ABERTOS", GLOBO NEWS
+https://stream.ec.cx/a/hls1/globonews.m3u8?expires=1594366380&token=4b80f973b0d4d77907b4fb1136ead901
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1024px-CNN_Brasil.svg.png" group-title="CANAIS ABERTOS", CNN Brasil
 https://stream.ec.cx/a/hls1/cnnbrasil.m3u8?expires=1594365734&token=e13cc2689bd40fd84aa90416a6a2b109
 
@@ -29,12 +32,6 @@ http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8?Keltec
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://lh3.googleusercontent.com/zPSVJFz0W11TOY_ROXn5ttm9wAcBRFjNBf8UaOaPybeWnPsv4M1B8ZUsebz_ViCjfQA" group-title="CANAIS ABERTOS", M2o
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/33004b0a1cb3a43b7a1e6b1aef92c128.png" group-title="CANAIS ABERTOS", Record News
-https://www.youtube.com/watch?v=cI6gbkteAlo&feature=youtu.be
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://globo-sala-de-imprensa.s3.amazonaws.com/CACHE/images/imagens/logotipos/programas/Logo_6hwes20/8375aeca2f85b91dac73d93bf6125e5b.jpg" group-title="CANAIS ABERTOS", GLOBO NEWS
-https://stream.ec.cx/a/hls1/globonews.m3u8?expires=1594366380&token=4b80f973b0d4d77907b4fb1136ead901
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/468a51d6031a373ec56983564ebf9ff8.jpg" group-title="CANAIS ABERTOS", TV Carioca
 https://5d2c98775bafe.streamlock.net/8180/8180/chunklist_w14385976.m3u8
