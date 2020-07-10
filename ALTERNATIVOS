@@ -83,3 +83,6 @@ https://stream.ec.cx/a/hls1/telecinetouch.m3u8?expires=1594370459&token=f97792f2
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRj2AbGomp4bcggqiHOh8iGwJ_TfcdV4h7Gbw&usqp=CAU" group-title="ALTERNATIVO",Telecine Cult
 https://stream.ec.cx/a/hls1/telecinecult.m3u8?expires=1594370573&token=94da3edd41a2e8b27865b12236ab7409
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTd3fU84kIIU98vhn8ivn3attLvt2PuF-lLpA&usqp=CAU" group-title="ALTERNATIVO",TBS
+https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/tbs_91eb375e_08d81ef3b33bd35263c017c5fb8a2b15fc86ee24/playlist.m3u8
