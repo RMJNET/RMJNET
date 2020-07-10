@@ -90,3 +90,6 @@ https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/tbs_91eb375e_08d81ef3b33bd35
 #EXTINF:-1 tvg-id="" tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2015/05/Fox-Life-e1505937657577.png" group-title="ALTERNATIVO",FOX life
 https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/foxlife_66435217_a31ba034ddc599437dbc7efc68d828f19eccc10c/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/55/Multishow_logo-laranja.png/revision/latest/scale-to-width-down/340?cb=20121216184223" group-title="ALTERNATIVO",MULTISHOW
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/multishow_5f573b82_d8a7c8f5be7f48dde128d8fbab708f48efcee607/playlist.m3u8
+
