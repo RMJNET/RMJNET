@@ -10,7 +10,7 @@ https://stream.ec.cx/a/hls1/band.m3u8?expires=1594366117&token=1c5356eb683e9f02e
 https://stream.ec.cx/a/hls1/boborj.m3u8?expires=1594366286&token=603d511dc24d7a7938a2653750bc91cc
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b1/Logotipo_da_Record_News.png" group-title="CANAIS ABERTOS",RECORD NEWS
-https://stream.ec.cx/a/hls1/recordnews.m3u8?expires=1594366069&token=b18f9488789828681aab65cf89b6a721
+https://youtu.be/cI6gbkteAlo
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://globo-sala-de-imprensa.s3.amazonaws.com/CACHE/images/imagens/logotipos/programas/Logo_6hwes20/8375aeca2f85b91dac73d93bf6125e5b.jpg" group-title="CANAIS ABERTOS", GLOBO NEWS
 https://stream.ec.cx/a/hls1/globonews.m3u8?expires=1594366380&token=4b80f973b0d4d77907b4fb1136ead901
