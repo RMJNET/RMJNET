@@ -45,9 +45,6 @@ https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/premiere2_f5b68d74_37587fa31f
 #EXTINF:-1 tvg-id="" tvg-logo="https://multicanais.com/wp-content/uploads/2019/05/Premiere-2-.png" group-title="ESPORTES",PREMIERE 3
 https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/premiere3_b903ea63_c1df98c92a85f048de36a04f3c06e3da51dac16e/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://multicanais.com/wp-content/uploads/2019/05/Premiere-2-.png" group-title="ESPORTES",PREMIERE 4
-https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/premiere4_142e9ae3_26c6e5c5f40afb74a9e8130d2af0db1d8a2358b1/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://multicanais.com/wp-content/uploads/2019/05/Premiere-2-.png" group-title="ESPORTES",PREMIERE 5
 https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/premiere5_0486ffb0_420e809f8f8ba301c77006a58942878901e404c0/playlist.m3u8
 
