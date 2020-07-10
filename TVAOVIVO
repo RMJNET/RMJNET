@@ -7,7 +7,7 @@ http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/live.m3u
 https://stream.ec.cx/a/hls1/band.m3u8?expires=1594366117&token=1c5356eb683e9f02e8d9d67fc5068b3e
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://multicanais.com/wp-content/uploads/2017/12/assistir-globo-online-ao-vivo-24-horas.png" group-title="CANAIS ABERTOS",GLOBO
-https://stream.ec.cx/a/hls1/boborj.m3u8?expires=1594366286&token=603d511dc24d7a7938a2653750bc91cc
+https://live.netcanais.com/GLOBORJ/tracks-v1a1/mono.m3u8?token=25a016c2cabd5b96a65dfb85ec45a1ba&expires=1594411254
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b1/Logotipo_da_Record_News.png" group-title="CANAIS ABERTOS",RECORD NEWS
 https://youtu.be/cI6gbkteAlo
