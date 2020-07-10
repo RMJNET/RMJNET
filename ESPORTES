@@ -36,9 +36,6 @@ https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/bandsports_f53eac2e_9277ce962
 #EXTINF:-1 tvg-id="" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/a/a2/Premiere_combate.png/revision/latest?cb=20130519152220" group-title="ESPORTES",COMBATE
 https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/combate_ac3478d6_c715b127880bed2d679b7b600cbd954132ca9b96/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://futebolplayhd.com/imagens-futebol/416e310c1b9993f5832243fab7544a09.jpg" group-title="ESPORTES",DAZN
-https://ul.cdn946.net:8443/hls/dftsbx86z8qhvbg.m3u8?s=j2Rw1as5sScMySfBZSTrxQ&e=1594155561
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://th.bing.com/th/id/OIP.-ZJm-TBZgKLHe5VEfcdQ5QHaEh?w=276&h=180&c=7&o=5&pid=1.7" group-title="ESPORTES",PREMIERE CLUBES
 https://edge-aws.aovivotv.xyz/hls/s:88.198.163.51/premiereclubes_3f1522d0_a825575c0bb024fe0b8a94a4dd0a62a9917e2878/playlist.m3u8
 
@@ -52,7 +49,7 @@ https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/premiere3_b903ea63_c1df98c92a8
 https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/premiere4_142e9ae3_26c6e5c5f40afb74a9e8130d2af0db1d8a2358b1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://multicanais.com/wp-content/uploads/2019/05/Premiere-2-.png" group-title="ESPORTES",PREMIERE 5
-https://stream.ec.cx/a/hls1/premiere2.m3u8?expires=1594364017&token=a82543f24372651d9d011c29e3213a9d
+https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/premiere5_0486ffb0_420e809f8f8ba301c77006a58942878901e404c0/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://multicanais.com/wp-content/uploads/2019/05/Premiere-2-.png" group-title="ESPORTES",PREMIERE 6
 https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/premiere6_8a279e5c_60fd53d1edf464ae05b25efe3390e4e7d35e0291/playlist.m3u8
