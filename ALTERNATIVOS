@@ -66,5 +66,20 @@ https://stream.ec.cx/a/hls1/foxpremium2.m3u8?expires=1594368339&token=be6e71f071
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/1280px-A%26E-Network-Logo.svg.png" group-title="ALTERNATIVO",A&E
 https://stream.ec.cx/a/hls1/aie.m3u8?expires=1594368706&token=8560b8f4bef4f0e553cf1d80e1a4d9ad
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcShACvCj8h7QNd0zFU36Mqb1aysHun0NCe70A&usqp=CAU" group-title="ALTERNATIVO",Telecine Pipoca
+https://stream.ec.cx/a/hls1/telecinepipoca.m3u8?expires=1594369794&token=4145598fcc8714022a9c00a7b8eb7d8b
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5-vW0Z-v2mbdo861YHS4zPiMm2ca6tjCPP7JtkqJuRRoCdoE&s" group-title="ALTERNATIVO",Telecine Premium
+https://stream.ec.cx/a/hls1/telecinepremium.m3u8?expires=1594370119&token=05a7b3da8eb3f97eb5c5042630aa878e
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSgKQl3cQLAC2_GM3yDHjiAJMXoTOW2RlxFzg&usqp=CAU" group-title="ALTERNATIVO",Telecine Action
+https://stream.ec.cx/a/hls1/telecineaction.m3u8?expires=1594370260&token=eefffd6d561b3c3b54c39a01a23a2f27
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSps6B271Aq2Y-dm4eQ57LU2hjvHeq96nU77g&usqp=CAU" group-title="ALTERNATIVO",Telecine Fun
+https://stream.ec.cx/a/hls1/telecinefun.m3u8?expires=1594370352&token=ab265edd4d16c2052128e0f8c31688fa
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR6GQxtvOIokEjGaCgq78mjk4t62MKRNoA1AA&usqp=CAU" group-title="ALTERNATIVO",Telecine Touch
+https://stream.ec.cx/a/hls1/telecinetouch.m3u8?expires=1594370459&token=f97792f2fda682dd6363e38235e9022c
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRj2AbGomp4bcggqiHOh8iGwJ_TfcdV4h7Gbw&usqp=CAU" group-title="ALTERNATIVO",Telecine Cult
+https://stream.ec.cx/a/hls1/telecinecult.m3u8?expires=1594370573&token=94da3edd41a2e8b27865b12236ab7409
