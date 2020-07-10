@@ -86,3 +86,7 @@ https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/telecinecult_8d255e1e_bd1
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTd3fU84kIIU98vhn8ivn3attLvt2PuF-lLpA&usqp=CAU" group-title="ALTERNATIVO",TBS
 https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/tbs_91eb375e_08d81ef3b33bd35263c017c5fb8a2b15fc86ee24/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2015/05/Fox-Life-e1505937657577.png" group-title="ALTERNATIVO",FOX life
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/foxlife_66435217_a31ba034ddc599437dbc7efc68d828f19eccc10c/playlist.m3u8
+
