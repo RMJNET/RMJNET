@@ -42,7 +42,7 @@ https://stream.ec.cx/a/hls1/tcm.m3u8?expires=1594368701&token=372baf7a0a25528bbe
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS68CT8sk6lT-5wHFO4xQx1AfmtmBSV747oSQ&usqp=CAU" group-title="ALTERNATIVO",Canal Sony
 https://stream.ec.cx/a/hls1/sony.m3u8?expires=1594368635&token=bbef41a0f45a614577e2d6ed9a484f9a
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://lh3.googleusercontent.com/proxy/xobmzfcznHtn1hr1jFFHKfJ2DLUxZ2lru3b0bLL8Fr0HDTRIWaqbYHcYDk4Xhb4PbtdeTSe9L1UuPg4S1TsRpV9HHn5V5duZ6l5F8mu9N6NOHJMjRx9qsFtSlH3VH4cW" group-title="ALTERNATIVO",Megapix
+#EXTINF:-1 tvg-id="" tvg-logo="https://media-exp1.licdn.com/dms/image/C510BAQEQQMZUQLpV3g/company-logo_200_200/0?e=2159024400&v=beta&t=5mmXPews8Ea5cs-jj5omc339OaRTTYZA93qWSFXwk_A" group-title="ALTERNATIVO",Megapix
 https://stream.ec.cx/a/hls1/megapix.m3u8?expires=1594369063&token=d2397e54bb9b985e4fc09a97d1ec1ef5
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn6.aptoide.com/imgs/e/1/a/e1aa5fad2f311c6f795dbfb50a4e64ad_icon.png" group-title="ALTERNATIVO",Fox Channel
