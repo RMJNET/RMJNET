@@ -4,16 +4,19 @@
 http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imagem.band.com.br/f_394138.jpg" group-title="CANAIS ABERTOS",BAND
-https://stream.ec.cx/a/hls1/band.m3u8?expires=1594366117&token=1c5356eb683e9f02e8d9d67fc5068b3e
+https://stream.ec.cx/a/hls1/band.m3u8?expires=1594431630&token=717c2e0b13ede93a0384e16271a8e9e7
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i1.wp.com/agiliza.nextel.com.br/wp-content/uploads/2019/11/bandnews-tv-arte-1-jornal-da-band-990x556.jpg?fit=990%2C556&ssl=1" group-title="CANAIS ABERTOS",BAND NEWS
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/bandnews_aee544ce_510977bd1c451906279421edff60b146d1fb3a8e/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://multicanais.com/wp-content/uploads/2017/12/assistir-globo-online-ao-vivo-24-horas.png" group-title="CANAIS ABERTOS",GLOBO
-https://geralorigin.eu-central-1.edge.mycdn.live/live/globosphd/video.m3u8
+https://stream.ec.cx/a/hls1/boborj.m3u8?expires=1594431729&token=f870754ba39cb48cce275a2e36322370
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b1/Logotipo_da_Record_News.png" group-title="CANAIS ABERTOS",RECORD NEWS
-https://youtu.be/cI6gbkteAlo
+https://stream.ec.cx/a/hls1/recordnews.m3u8?expires=1594431783&token=c46a14ce576780b749b8db07e6c5951a
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://globo-sala-de-imprensa.s3.amazonaws.com/CACHE/images/imagens/logotipos/programas/Logo_6hwes20/8375aeca2f85b91dac73d93bf6125e5b.jpg" group-title="CANAIS ABERTOS", GLOBO NEWS
-https://stream.ec.cx/a/hls1/globonews.m3u8?expires=1594366380&token=4b80f973b0d4d77907b4fb1136ead901
+https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/globonews_dc685e2c_a48a4a232077336bbd79d2e12e393124f1734df6/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9db393c3531f10b525f8af8a9d75f0ad.png" group-title="CANAIS ABERTOS",REDE BRASIL
 https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w817599106.m3u8
