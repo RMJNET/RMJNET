@@ -22,7 +22,7 @@ https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/foxsports2_fc8d9e6e_10fb5
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8#1
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://3.bp.blogspot.com/-9DxKW3IEWTU/V3M6j1PIJKI/AAAAAAAAtn8/34FjGZ_hoSA7LxQ-XAs5qkqZKiQ79dJdwCKgB/s640/SporTV.png" group-title="ESPORTES",SPORTV
-https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/sportv_91dfde1d_f34e74890a82c2caf4d69854a60fb282df6ec621/playlist.m3u8
+https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/sportv_91dfde1d_c5137ffb1302fad51c2b38720366e600adcef5e6/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.miptv.ws/SporTV_2.png" group-title="ESPORTES",SPORTV 2
 https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/sportv2_22ab0e43_be82768f7ab55be08cabf4147a5e796427fb0b11/playlist.m3u8
