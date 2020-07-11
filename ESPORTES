@@ -31,10 +31,10 @@ https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/sportv2_22ab0e43_be82768f7ab5
 https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/sportv3_e1a864f0_7cff92949f0fa5ed9b34dbf956619b5146311270/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTV9xH4LDY5C7MRAXoCZVY39O9SuvPSPpiyhQ&usqp=CAU" group-title="ESPORTES",BAND SPORTS
-https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/bandsports_f53eac2e_9277ce962a88a7ae58d925f507d917afe80f63fb/playlist.m3u8
+https://edge-aws.aovivotv.xyz/hls/s:88.198.163.51/bandsports_f53eac2e_432c43f8d92a770105d3d0965a16e53decd2132f/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/a/a2/Premiere_combate.png/revision/latest?cb=20130519152220" group-title="ESPORTES",COMBATE
-https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/combate_ac3478d6_c715b127880bed2d679b7b600cbd954132ca9b96/playlist.m3u8
+https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/combate_ac3478d6_c6ca7db7e81951166146f8a1f9ad0ee5c3b13491/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://th.bing.com/th/id/OIP.-ZJm-TBZgKLHe5VEfcdQ5QHaEh?w=276&h=180&c=7&o=5&pid=1.7" group-title="ESPORTES",PREMIERE CLUBES
 https://edge-aws.aovivotv.xyz/hls/s:88.198.163.51/premiereclubes_3f1522d0_a825575c0bb024fe0b8a94a4dd0a62a9917e2878/playlist.m3u8
