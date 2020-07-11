@@ -4,7 +4,7 @@
 http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imagem.band.com.br/f_394138.jpg" group-title="CANAIS ABERTOS",BAND
-https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/band_49e3d046_140b759de9b29a942dca02a81459822f7eab82a9/playlist.m3u8
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/band_49e3d046_9b21ba5a0a2d3e7f9fab520346cebee5842ef7fd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i1.wp.com/agiliza.nextel.com.br/wp-content/uploads/2019/11/bandnews-tv-arte-1-jornal-da-band-990x556.jpg?fit=990%2C556&ssl=1" group-title="CANAIS ABERTOS",BAND NEWS
 https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/bandnews_aee544ce_3b488119d0dae70e9bf392f32b87404b620e5a70/playlist.m3u8
