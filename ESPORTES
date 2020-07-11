@@ -13,7 +13,7 @@ https://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-p.m3u8?sd
 https://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_720_av-p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://futebolplayhd.com/imagens-futebol/80c5121d2fa5a071d35fd0856f42f425.jpg" group-title="ESPORTES",FOX SPORTS
-https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/foxsports_8a1beaee_cfec39fbb3b2bb7b41d2a6050d0319b7136eebe3/playlist.m3u8
+https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/foxsportshd_98fbc42f_cb20a2b79c487f4c92e3ae1a36c24c123a73ef5f/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://futebolplayhd.com/imagens-futebol/b16e46dbbc37d4b4b6e1fe359bfa60b7.jpg" group-title="ESPORTES",FOX SPORTS 2
 https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/foxsports2_fc8d9e6e_10fb51f60dc0c6f2081f84d118d7bab3e452e5bc/playlist.m3u8
