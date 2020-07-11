@@ -1,3 +1,6 @@
+#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/5/5b/Logo_gshd.png/revision/latest/scale-to-width-down/340?cb=20190209221002" group-title="ALTERNATIVO",+ Globosat
+https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/globosat_30222b26_9763187d4c4129199b3dba27c437bcb978d3637c/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://img2.gratispng.com/20180601/cgc/kisspng-paramount-pictures-paramount-channel-television-ch-mountain-logo-5b11a1db31ebe7.6027270915278822032045.jpg" group-title="ALTERNATIVO",Paramount Channel
 https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/paramountchannel_efa260ad_cff84a191ada81e8b0005319201bf45e01a49fd6/playlist.m3u8
 
