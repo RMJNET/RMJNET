@@ -1,3 +1,5 @@
+#EXTM3U
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/5/5b/Logo_gshd.png/revision/latest/scale-to-width-down/340?cb=20190209221002" group-title="ALTERNATIVO",+ Globosat
 https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/globosat_30222b26_c3b88e29fd4f858b118b916ddbc51a304090a778/playlist.m3u8
 
