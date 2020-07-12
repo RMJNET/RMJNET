@@ -10,7 +10,7 @@ https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/band_49e3d046_afe7c72f80f
 https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/bandnews_aee544ce_5bb82c57235ac85c82f7ef910478d4ac81bca32d/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://multicanais.com/wp-content/uploads/2017/12/assistir-globo-online-ao-vivo-24-horas.png" group-title="CANAIS ABERTOS",GLOBO
-https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/globosp_cfe21c68_57c43d7b74ec5ea0e87a19f6a0b773e4116075a9/playlist.m3u8
+https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/globorj_bc15c774_21e04b13e515101488d0ff82774b0a2aabfd6beb/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b1/Logotipo_da_Record_News.png" group-title="CANAIS ABERTOS",RECORD NEWS
 https://edge-aws.aovivotv.xyz/hls/s:88.198.163.51/recordnews_620807a1_e5561a9a9286a97a56ad80e0ab8c252de41a8091/playlist.m3u8
