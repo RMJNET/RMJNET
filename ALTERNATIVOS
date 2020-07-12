@@ -32,7 +32,7 @@ https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/tnt_9109c85a_ce09165af6ae2917
 https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/fx_667be543_412baf43b93feec6ef69500d2057db518bb86e72/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://1.bp.blogspot.com/-Z5nKSvNIvY8/XtWAnATiD6I/AAAAAAAANCY/fCpOtRju8BorHAWLyMTLtfSV2lYi9EozACLcBGAsYHQ/s1600/ViewImage.aspx.jpg" group-title="ALTERNATIVO",Canal Brasil
-https://stream.ec.cx/a/hls1/canalbrasil.m3u8?expires=1594433077&token=78fed03b38bbe795efdf9b04c3997d8c
+https://stream.ec.cx/a/hls1/canalbrasil.m3u8?expires=1594593841&token=b55b7251306ed945632ba8f617714f52
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2000&h=1333&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2017%2F05%2Fdefault-2000.jpg" group-title="ALTERNATIVO",SYFY
 https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/syfy_097ccd4f_047a254cfd21d49ccc6a98de5e87c2354e16ec5b/playlist.m3u8
@@ -83,7 +83,7 @@ https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/telecinefun_ae1e7198_249a
 https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/telecinetouch_74cbd2c2_076ae5b53da2eedcb5eb8b1ddfd403de7036df61/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRj2AbGomp4bcggqiHOh8iGwJ_TfcdV4h7Gbw&usqp=CAU" group-title="ALTERNATIVO",Telecine Cult
-https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/telecinecult_8d255e1e_bd160388d241ca39841f1d8d0f303066dbc10457/playlist.m3u8
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/telecinecult_8d255e1e_965d838d1b80c47e4038af67644130cfc7a1ceae/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTd3fU84kIIU98vhn8ivn3attLvt2PuF-lLpA&usqp=CAU" group-title="ALTERNATIVO",TBS
 https://edge-aws.aovivotv.xyz/hls/s:88.198.163.51/tbs_91eb375e_addde717beb1f4e33a706e0693b97dc15fc6a383/playlist.m3u8
