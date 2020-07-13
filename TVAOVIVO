@@ -4,13 +4,13 @@
 https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/sbtsp_2a5ac580_02c1eb75cb6a6674ed87d8bd30f84189c23e4486/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imagem.band.com.br/f_394138.jpg" group-title="CANAIS ABERTOS",BAND
-https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/band_49e3d046_c36cf6478172b4da1e5a585ab6214a8016c8c1d4/playlist.m3u8
+https://edge-aws.aovivotv.xyz/hls/s:88.198.163.51/band_49e3d046_c36cf6478172b4da1e5a585ab6214a8016c8c1d4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i1.wp.com/agiliza.nextel.com.br/wp-content/uploads/2019/11/bandnews-tv-arte-1-jornal-da-band-990x556.jpg?fit=990%2C556&ssl=1" group-title="CANAIS ABERTOS",BAND NEWS
 https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/bandnews_aee544ce_875d3c9df9309d3668be7eb129d09fedf742047d/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://multicanais.com/wp-content/uploads/2017/12/assistir-globo-online-ao-vivo-24-horas.png" group-title="CANAIS ABERTOS",GLOBO
-https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/globorj_bc15c774_a3e59c861261722e119f787c1b7bf69a1668e38d/playlist.m3u8
+https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/globorj_bc15c774_a3e59c861261722e119f787c1b7bf69a1668e38d/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b1/Logotipo_da_Record_News.png" group-title="CANAIS ABERTOS",RECORD NEWS
 https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/recordnews_620807a1_c7a71106bd5ed90daa06ec2f1186f295568d772a/playlist.m3u8
