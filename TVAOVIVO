@@ -1,10 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c58e812f5890bb17b7ea47f918a7d1df.png" group-title="CANAIS ABERTOS",SBT
-https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/sbtsp_2a5ac580_48e7109f93e5957a9c807fc1a61a3d517f809cc0/playlist.m3u8
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1033677620_b216000_sleng.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imagem.band.com.br/f_394138.jpg" group-title="CANAIS ABERTOS",BAND
-https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/band_49e3d046_c36cf6478172b4da1e5a585ab6214a8016c8c1d4/playlist.m3u8
+https://evpp.mm.uol.com.br/geob_band/app/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/66/RedeTV%21_2009.png/revision/latest?cb=20120304194441" group-title="CANAIS ABERTOS",REDE TV
 https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/redetv_45cbe19f_1fb7cd8051432ffaa2ee27d560e803f5de1c69c8/playlist.m3u8
@@ -13,7 +13,7 @@ https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/redetv_45cbe19f_1fb7cd805
 https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/globorj_bc15c774_26b60c708a84402c0b22ec4e5c727280dd52e4d9/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.hojeemdia.com.br/polopoly_fs/1.47601!/image/image.jpg_gen/derivatives/landscape_653/image.jpg" group-title="CANAIS ABERTOS",RECORD
-https://edge-aws.aovivotv.xyz/hls/s:88.198.163.51/record_3554dce5_bb18de38127ef3f246ee21de5f93e7977c37166e/playlist.m3u8
+https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_480_av-p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9db393c3531f10b525f8af8a9d75f0ad.png" group-title="CANAIS ABERTOS",REDE BRASIL
 https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w817599106.m3u8
