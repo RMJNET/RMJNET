@@ -17,19 +17,6 @@ Juntando-se a eles, a irmã de Miles, Ali, uma estudante de psicologia durante o
 
 <channels>
 <channel>
-<name>[COLOR cyan]Magnum P.I.[/COLOR]</name>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7OTVZrUDymBK5pjqHk4cwken8Tx.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/RMJNET/RMJNET/master/MAGNUM</externallink>
-<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/mOlrabqAHHVQU2Q0bRDzea4Kw2c.jpg</fanart>
-<info>Sinopse
-Magnum P.I. é uma série de ação sobre um ex-integrante da marinha americana que retorna do Afeganistão e usa suas habilidades de militar para se tornar um investigador privado no Havaí.</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<channels>
-<channel>
 <name>[COLOR cyan]Castle[/COLOR]</name>
 <thumbnail>https://th.bing.com/th/id/OIP.DI6qEqzQKEarrRg9lVr3jgHaLH?pid=Api&rs=1</thumbnail>
 <externallink>https://raw.githubusercontent.com/RMJNET/RMJNET/master/CASTLE</externallink>
@@ -64,3 +51,36 @@ Um gênio do computador, Chuck Bartowski, abre um e-mail que foi codificado com 
 White Collar conta a história da improvável parceria entre o vigarista Neal Caffrey e o Agente Federal Peter Burke. Quando Neal escapa da prisão de segurança máxima para encontrar seu amor perdido, Burke o recaptura e, ao invés de ir para a prisão novamente, o criminoso propõe um acordo: ele dará assistência ao FBI, utilizando toda a sua experiência em golpes para ajudar a agência a resolver os casos mais complicados. Peter, então, logo percebe que a ajuda de Neal e a sua intuição não seriam encontradas do lado dos homens da lei.</info>
 </channel>
 </channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR cyan]Magnum P.I.[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7OTVZrUDymBK5pjqHk4cwken8Tx.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RMJNET/RMJNET/master/MAGNUM</externallink>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/mOlrabqAHHVQU2Q0bRDzea4Kw2c.jpg</fanart>
+<info>Sinopse
+Magnum P.I. é uma série de ação sobre um ex-integrante da marinha americana que retorna do Afeganistão e usa suas habilidades de militar para se tornar um investigador privado no Havaí.</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+<channels>
+<channel>
+<name>[COLOR cyan]O Mandaloriano[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7CQuB71u4fbZzRARJMBLusFd5eL.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RMJNET/RMJNET/master/MANDALO</externallink>
+<fanart>https://image.tmdb.org/t/p/original/5GISMqlRXMEyBrgEqyvhaMMuQmJ.jpg</fanart>
+<info>Sinopse
+A saga de um guerreiro solitário, que também é um mercenário e pistoleiro, viajando pelos territórios esquecidos e marginais do espaço, logo após a queda do Império e antes da criação da temida Primeira Ordem.</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+
+
