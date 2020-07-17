@@ -3,7 +3,7 @@
 <name>[COLOR cyan]1ª Temporada[/COLOR]</name>
 <name>[COLOR cyan]BONES[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rElaRnNez2dXBCMv1THHdVcroFY.jpg</thumbnail>
-<externallink>XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</externallink>
+<externallink>https://raw.githubusercontent.com/RMJNET/RMJNET/master/BONES1TMP</externallink>
 <fanart>https://image.tmdb.org/t/p/original/5Zd6W2LHK5sslcn9BWKCoVJvSQi.jpg</fanart>
 <info>Sinopse
 A série "Bones" gira em torno da Dra. Temperance Brennan, uma exímia antropóloga forense que trabalha no Instituto Jeffersonian e cujo passatempo é escrever romances policiais. Ela é chamada para ajudar nas investigações policiais de assassinato sempre que não é possível identificar a vítima pelos métodos tradicionais, seja porque o corpo está decomposto, foi carbonizado ou está totalmente desfigurado. O talento e a experiência de Brennan recaem em sua grande habilidade de desvendar as pistas ocultas que se escondem por trás do cadáver e/ou ossada das vitimas. Nesta terceira temporada, a dupla Booth/Brennan está atrás de um serial killer que assusta a cidade e toda a equipe de peritos se envolve numa investigação que promete ser uma das melhores “caçadas” da televisão.</info>
@@ -16,7 +16,7 @@ A série "Bones" gira em torno da Dra. Temperance Brennan, uma exímia antropól
 <name>[COLOR cyan]2ª Temporada[/COLOR]</name>
 <name>[COLOR cyan]BONES[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rElaRnNez2dXBCMv1THHdVcroFY.jpg</thumbnail>
-<externallink>https://</externallink>
+<externallink>https://raw.githubusercontent.com/RMJNET/RMJNET/master/BONES2TMP/externallink>
 <fanart>https://image.tmdb.org/t/p/original/5Zd6W2LHK5sslcn9BWKCoVJvSQi.jpg</fanart>
 <info>Sinopse
 A série "Bones" gira em torno da Dra. Temperance Brennan, uma exímia antropóloga forense que trabalha no Instituto Jeffersonian e cujo passatempo é escrever romances policiais. Ela é chamada para ajudar nas investigações policiais de assassinato sempre que não é possível identificar a vítima pelos métodos tradicionais, seja porque o corpo está decomposto, foi carbonizado ou está totalmente desfigurado. O talento e a experiência de Brennan recaem em sua grande habilidade de desvendar as pistas ocultas que se escondem por trás do cadáver e/ou ossada das vitimas. Nesta terceira temporada, a dupla Booth/Brennan está atrás de um serial killer que assusta a cidade e toda a equipe de peritos se envolve numa investigação que promete ser uma das melhores “caçadas” da televisão.</info>
