@@ -76,7 +76,7 @@ https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/telecinepipoca_fd937516_013b0
 https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/telecinepremium_a929eb33_c1209a22194f975cb45a47110b7e4fd2ae832e93/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSgKQl3cQLAC2_GM3yDHjiAJMXoTOW2RlxFzg&usqp=CAU" group-title="ALTERNATIVO",Telecine Action
-https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/telecineaction_be057d4c_50c272ab56d3b95d491202481699d3e8b3262b0c/playlist.m3u8
+https://edge-aws.aovivotv.xyz/hls/s:88.198.163.51/telecineactionhd_be2793cd_bf16ef19d9e5fa4e54cbf42bcc78364707f429ed/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSps6B271Aq2Y-dm4eQ57LU2hjvHeq96nU77g&usqp=CAU" group-title="ALTERNATIVO",Telecine Fun
 https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/telecinefun_ae1e7198_22c006834ff8e66419af15de8e705044cef4dba7/playlist.m3u8
@@ -88,10 +88,10 @@ https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/telecinetouch_74cbd2c2_ed17e6
 https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/telecinecult_8d255e1e_0cf2bb36130978bab78e8fc6cd4f6b5e52a3905c/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTd3fU84kIIU98vhn8ivn3attLvt2PuF-lLpA&usqp=CAU" group-title="ALTERNATIVO",TBS
-https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/tbs_91eb375e_3aeac384c871b6774b73fb27571d933ebef05796/playlist.m3u8
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/tbs_91eb375e_901b6507a9e1abc0c454f3e0ffc445822ad919ea/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2015/05/Fox-Life-e1505937657577.png" group-title="ALTERNATIVO",FOX life
 https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/foxlife_66435217_13b70f840ddccc86dd826ddfc186a660fab02c9d/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/55/Multishow_logo-laranja.png/revision/latest/scale-to-width-down/340?cb=20121216184223" group-title="ALTERNATIVO",MULTISHOW
-https://edge-aws.aovivotv.xyz/hls/s:88.198.163.51/multishow_5f573b82_7e63c408c65658f1f7a173a7f7f0257723b5c972/playlist.m3u8
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/multishow_5f573b82_1d4f765965a41160510a63979c5202f93639f7da/playlist.m3u8
