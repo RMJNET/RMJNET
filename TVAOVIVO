@@ -10,7 +10,7 @@ https://evpp.mm.uol.com.br/geob_band/app/chunklist.m3u8
 https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/redetv_45cbe19f_77b656ad665e4bc1b421a84636e659aea045e615/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://multicanais.com/wp-content/uploads/2017/12/assistir-globo-online-ao-vivo-24-horas.png" group-title="CANAIS ABERTOS",GLOBO
-https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/globosp_cfe21c68_addd0a0231054eb9c513b0277d60f86374998773/playlist.m3u8
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/globorj_bc15c774_5490e55836cb1644e11dd12b384d8c022aa29adf/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.hojeemdia.com.br/polopoly_fs/1.47601!/image/image.jpg_gen/derivatives/landscape_653/image.jpg" group-title="CANAIS ABERTOS",RECORD
 https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_480_av-p.m3u8
