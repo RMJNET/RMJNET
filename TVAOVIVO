@@ -1,16 +1,16 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c58e812f5890bb17b7ea47f918a7d1df.png" group-title="CANAIS ABERTOS",SBT
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1033677620_b216000_sleng.m3u8
+https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/sbtsp_2a5ac580_9f1743d6415d00d4126467b412f6b94bf6513e41/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imagem.band.com.br/f_394138.jpg" group-title="CANAIS ABERTOS",BAND
 https://evpp.mm.uol.com.br/geob_band/app/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/66/RedeTV%21_2009.png/revision/latest?cb=20120304194441" group-title="CANAIS ABERTOS",REDE TV
-https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/redetv_45cbe19f_1fb7cd8051432ffaa2ee27d560e803f5de1c69c8/playlist.m3u8
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/redetv_45cbe19f_77b656ad665e4bc1b421a84636e659aea045e615/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://multicanais.com/wp-content/uploads/2017/12/assistir-globo-online-ao-vivo-24-horas.png" group-title="CANAIS ABERTOS",GLOBO
-https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/globorj_bc15c774_26b60c708a84402c0b22ec4e5c727280dd52e4d9/playlist.m3u8
+https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/globosp_cfe21c68_addd0a0231054eb9c513b0277d60f86374998773/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.hojeemdia.com.br/polopoly_fs/1.47601!/image/image.jpg_gen/derivatives/landscape_653/image.jpg" group-title="CANAIS ABERTOS",RECORD
 https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_480_av-p.m3u8
@@ -34,7 +34,7 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?
 https://5d2c98775bafe.streamlock.net/8180/8180/chunklist_w14385976.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://3.bp.blogspot.com/-dntGYzVFEFQ/XtvGraowjJI/AAAAAAAAC7A/TwSrvMwM1pU4wADUfkwBEDZYXG_Ps5jQACLcBGAsYHQ/w1200-h630-p-k-no-nu/Screenshot_2020-06-06-13-35-36.png" group-title="CANAIS ABERTOS", Canal 29
-https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/chunklist_w1344902355.m3u8
+https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/playlist-480p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://4.bp.blogspot.com/-k4V7yn7Ybqk/XtmJfwWe0LI/AAAAAAAAC6I/SxVVj-WBG0MD0OhqGiU12t5Cwjx9v0gmQCLcBGAsYHQ/w1200-h630-p-k-no-nu/2020-06-04%2B20.42.23.png" group-title="CANAIS ABERTOS", TV Aracati
 https://livefocamundo.com:8081/8148/tracks-v1a1/mono.m3u8
