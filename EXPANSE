@@ -1,9 +1,8 @@
 <channels>
 <channel>
 <name>[COLOR cyan]1ª Temporada[/COLOR]</name>
-<name>[COLOR cyan]|The Expanse[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wikmaI7OVqmq2O9HfknkzxX6Ygu.jpg</thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/RMJNET/RMJNET/master/EXPANSE1TMP</externallink>
 <fanart>https://image.tmdb.org/t/p/original/7yKtaRij2giAj0s09F6gmB8XIje.jpg</fanart>
 <info>Sinopse
 Duzentos anos no futuro, um detetive interespacial, o capitão de uma nave e uma diplomata antiguerra cruzam seus caminhos após uma jovem desaparecer misteriosamente.</info>
@@ -13,9 +12,8 @@ Duzentos anos no futuro, um detetive interespacial, o capitão de uma nave e uma
 <channels>
 <channel>
 <name>[COLOR cyan]2ª Temporada[/COLOR]</name>
-<name>[COLOR cyan]|The Expanse[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wikmaI7OVqmq2O9HfknkzxX6Ygu.jpg</thumbnail>
-<externallink>https://</externallink>
+<externallink>https://raw.githubusercontent.com/RMJNET/RMJNET/master/EXPANSE2TMP</externallink>
 <fanart>https://image.tmdb.org/t/p/original/7yKtaRij2giAj0s09F6gmB8XIje.jpg</fanart>
 <info>Sinopse
 Duzentos anos no futuro, um detetive interespacial, o capitão de uma nave e uma diplomata antiguerra cruzam seus caminhos após uma jovem desaparecer misteriosamente.</info>
@@ -25,12 +23,21 @@ Duzentos anos no futuro, um detetive interespacial, o capitão de uma nave e uma
 <channels>
 <channel>
 <name>[COLOR cyan]3ª Temporada[/COLOR]</name>
-<name>[COLOR cyan]|The Expanse[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wikmaI7OVqmq2O9HfknkzxX6Ygu.jpg</thumbnail>
-<externallink>https://</externallink>
+<externallink>https://raw.githubusercontent.com/RMJNET/RMJNET/master/EXPANSE3TMP</externallink>
 <fanart>https://image.tmdb.org/t/p/original/7yKtaRij2giAj0s09F6gmB8XIje.jpg</fanart>
 <info>Sinopse
 Duzentos anos no futuro, um detetive interespacial, o capitão de uma nave e uma diplomata antiguerra cruzam seus caminhos após uma jovem desaparecer misteriosamente.</info>
 </channel>
 </channels>
 
+<channels>
+<channel>
+<name>[COLOR cyan]4ª Temporada[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wikmaI7OVqmq2O9HfknkzxX6Ygu.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RMJNET/RMJNET/master/EXPANSE4TMP</externallink>
+<fanart>https://image.tmdb.org/t/p/original/7yKtaRij2giAj0s09F6gmB8XIje.jpg</fanart>
+<info>Sinopse
+Duzentos anos no futuro, um detetive interespacial, o capitão de uma nave e uma diplomata antiguerra cruzam seus caminhos após uma jovem desaparecer misteriosamente.</info>
+</channel>
+</channels>
