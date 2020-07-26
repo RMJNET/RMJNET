@@ -86,7 +86,7 @@ Magnum P.I. é uma série de ação sobre um ex-integrante da marinha americana 
 <name>[COLOR cyan]O Mandaloriano[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7CQuB71u4fbZzRARJMBLusFd5eL.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/RMJNET/RMJNET/master/MANDALO</externallink>
-<fanart>https://image.tmdb.org/t/p/original/5GISMqlRXMEyBrgEqyvhaMMuQmJ.jpg</fanart>
+<fanart>https://image.tmdb.org/t/p/original/7yKtaRij2giAj0s09F6gmB8XIje.jpg</fanart>
 <info>Sinopse
 A saga de um guerreiro solitário, que também é um mercenário e pistoleiro, viajando pelos territórios esquecidos e marginais do espaço, logo após a queda do Império e antes da criação da temida Primeira Ordem.</info>
 </channel>
@@ -94,6 +94,17 @@ A saga de um guerreiro solitário, que também é um mercenário e pistoleiro, v
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
+<channels>
+<channel>
+<name>[COLOR cyan]The Expanser[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wikmaI7OVqmq2O9HfknkzxX6Ygu.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RMJNET/RMJNET/master/MANDALO</externallink>
+<fanart>https://image.tmdb.org/t/p/original/5GISMqlRXMEyBrgEqyvhaMMuQmJ.jpg</fanart>
+<info>Sinopse
+Duzentos anos no futuro, um detetive interespacial, o capitão de uma nave e uma diplomata antiguerra cruzam seus caminhos após uma jovem desaparecer misteriosamente.</info>
+</channel>
+</channels>
 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 
