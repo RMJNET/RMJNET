@@ -19,7 +19,7 @@ https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/tntseries_3bb18d9a_f22e0ad7932e
 https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/discoveryhomehealth_84582c1d_a68dd97b1343b45ccb9f4d37227d827535b8fb70/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://img2.gratispng.com/20180604/bpp/kisspng-comedy-central-television-channel-logo-tv-televisi-5b1588fb09b766.2558234715281379790398.jpg" group-title="ALTERNATIVO", Comedy Central
-https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/comedycentral_17037754_8c8c7440a90ba126a3797a941e482b69e5e8bf8c/playlist.m3u8
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/comedycentral_17037754_db1c4c556d3683a05596152211cc0ff4641ed21c/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/462/535/png-transparent-warner-tv-television-channel-wb-channel-warner-bros-wbtv-the-warner-channel-uk-television-emblem-logo.png" group-title="ALTERNATIVO",Warner TV
 https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/warnerchannel_0a57cb53_0f9908c05608af5141bb1d2e79be53f36cdea3f9/playlist.m3u8
