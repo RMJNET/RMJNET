@@ -22,7 +22,7 @@ https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/discoveryhomehealth_84582
 https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/comedycentral_17037754_8c8c7440a90ba126a3797a941e482b69e5e8bf8c/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/462/535/png-transparent-warner-tv-television-channel-wb-channel-warner-bros-wbtv-the-warner-channel-uk-television-emblem-logo.png" group-title="ALTERNATIVO",Warner TV
-https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/warnerchannel_0a57cb53_0f9908c05608af5141bb1d2e79be53f36cdea3f9/playlist.m3u8
+https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/warnerchannel_0a57cb53_0f9908c05608af5141bb1d2e79be53f36cdea3f9/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSDOmeJQWzgO1fnsjxkRVvCJdBICxCMsgIUBg&usqp=CAU" group-title="ALTERNATIVO",Studio Universal
 https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/studiouniversal_8b4753ed_f5ec9aee60f6230e5fd5b7abaf51f7a57ea47da5/playlist.m3u8
@@ -43,7 +43,7 @@ https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/syfy_097ccd4f_a7eacad5a3a294
 https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/tcm_13b72490_97007e37a1308abc4e99ec27c78c9ec1cb174be9/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS68CT8sk6lT-5wHFO4xQx1AfmtmBSV747oSQ&usqp=CAU" group-title="ALTERNATIVO",Canal Sony
-https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/sony_06349be7_146bbd502a8d7b02a55cf40b333204849346ba5e/playlist.m3u8
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/sony_06349be7_c74f2222f6c68ab16b1a2449399b2664567751bf/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://media-exp1.licdn.com/dms/image/C510BAQEQQMZUQLpV3g/company-logo_200_200/0?e=2159024400&v=beta&t=5mmXPews8Ea5cs-jj5omc339OaRTTYZA93qWSFXwk_A" group-title="ALTERNATIVO",Megapix
 https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/megapix_a6f16ab4_1c39754c25f4fb871d336dca23ce904cfad956e6/playlist.m3u8
