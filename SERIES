@@ -10,7 +10,6 @@ Nessa dramédia policial mal-intencionada, um agente do FBI incrivelmente bonito
 </channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
 <channels>
 <channel>
 <name>[COLOR cyan]BONES[/COLOR]</name>
@@ -23,7 +22,6 @@ A série "Bones" gira em torno da Dra. Temperance Brennan, uma exímia antropól
 </channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
 <channels>
 <channel>
 <name>[COLOR cyan]Deus me adicionou[/COLOR]</name>
@@ -39,7 +37,6 @@ Juntando-se a eles, a irmã de Miles, Ali, uma estudante de psicologia durante o
 </channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
 <channels>
 <channel>
 <name>[COLOR cyan]Castle[/COLOR]</name>
@@ -52,7 +49,6 @@ Conheça Richard Castle: ele é um bem sucedido escritor de mistério de assassi
 </channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
 <channels>
 <channel>
 <name>[COLOR cyan]CHUCK[/COLOR]</name>
@@ -65,7 +61,6 @@ Um gênio do computador, Chuck Bartowski, abre um e-mail que foi codificado com 
 </channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
 <channels>
 <channel>
 <name>[COLOR cyan]Crimes do Colarinho Branco[/COLOR]</name>
@@ -78,7 +73,6 @@ White Collar conta a história da improvável parceria entre o vigarista Neal Ca
 </channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
 <channels>
 <channel>
 <name>[COLOR cyan]Magnum P.I.[/COLOR]</name>
@@ -91,8 +85,6 @@ Magnum P.I. é uma série de ação sobre um ex-integrante da marinha americana 
 </channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-
 <channels>
 <channel>
 <name>[COLOR cyan]O Mandaloriano[/COLOR]</name>
@@ -105,7 +97,18 @@ A saga de um guerreiro solitário, que também é um mercenário e pistoleiro, v
 </channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<channels>
+<channel>
+<name>[COLOR cyan]O Mentalista[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bJ0SNoD0DchXo5nH3N81ABIe3H.jpg</thumbnail>
+<externallink></externallink>
+<fanart>https://image.tmdb.org/t/p/original/jZDYpNwh8KL7n2Io5bECBm5giz3.jpg</fanart>
+<info>Sinopse
+Patrick Jane é famoso por sua habilidade de alta percepção de tudo que está ao seu redor. Ele já quase foi uma celebridade, alegando ser médium vidente, mas agora admite que fingia ter poderes paranormais. Com sua grande habilidade de observação, Patrick trabalha como consultor independente para as autoridades da Califórnia, resolvendo um número considerável de crimes complicados.</info>
+</channel>
+</channels>
 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <channels>
 <channel>
 <name>[COLOR cyan]The Expanser[/COLOR]</name>
