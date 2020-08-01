@@ -70,22 +70,22 @@ https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/foxpremium2_2456caf1_37f74df
 https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/aemundo_c28aca23_d75ffe1556f4ce1d5ede85bcdcfadeaf2769b235/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcShACvCj8h7QNd0zFU36Mqb1aysHun0NCe70A&usqp=CAU" group-title="ALTERNATIVO",Telecine Pipoca
-https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/telecinepipoca_fd937516_3959be1bf29071518bdab891636406ba17256d04/playlist.m3u8
+https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/telecinepipoca_fd937516_ef9dc86154a1dbe072316f17d43eb5d45c75b032/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5-vW0Z-v2mbdo861YHS4zPiMm2ca6tjCPP7JtkqJuRRoCdoE&s" group-title="ALTERNATIVO",Telecine Premium
-https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/telecinepremium_a929eb33_46cc8ae17417fd222bf237082ffc25ab74e13506/playlist.m3u8
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/telecinepremiumhd_a8a2b30f_0ace38387ba0ce43ec67654e4f8c382fa38e281c/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSgKQl3cQLAC2_GM3yDHjiAJMXoTOW2RlxFzg&usqp=CAU" group-title="ALTERNATIVO",Telecine Action
-https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/telecineaction_be057d4c_5db74ece9cd311bfc5aeb0f50be985c092aa8756/playlist.m3u8
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/telecineactionhd_be2793cd_eab95a1f681bb83b352a2f880946937992dd1e79/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSps6B271Aq2Y-dm4eQ57LU2hjvHeq96nU77g&usqp=CAU" group-title="ALTERNATIVO",Telecine Fun
-https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/telecinefun_ae1e7198_57ff10871e3cc9d5f6f469ec66f46a1e5b4d96ff/playlist.m3u8
+https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/telecinefun_ae1e7198_abdfabc5e38189099e29358601d73b5ebf0b8f71/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR6GQxtvOIokEjGaCgq78mjk4t62MKRNoA1AA&usqp=CAU" group-title="ALTERNATIVO",Telecine Touch
-https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/telecinetouch_74cbd2c2_764dd278dea5ad746bc0659318ff6a462f5019ce/playlist.m3u8
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/telecinetouch_74cbd2c2_1b88b1e9b37d8dd4d3f8f34d8ff166038eff30ea/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRj2AbGomp4bcggqiHOh8iGwJ_TfcdV4h7Gbw&usqp=CAU" group-title="ALTERNATIVO",Telecine Cult
-https://edge-aws.aovivotv.xyz/hls/s:88.198.163.51/telecinecult_8d255e1e_48d5442aa52c0f3754dceb627245643159b1ca06/playlist.m3u8
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/telecinecult_8d255e1e_7ad676e96608edf0965fd235538c273eceb0818c/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTd3fU84kIIU98vhn8ivn3attLvt2PuF-lLpA&usqp=CAU" group-title="ALTERNATIVO",TBS
 https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/tbs_91eb375e_bcddc0cb7a06de406212fcf25f209b103ce160b9/playlist.m3u8
