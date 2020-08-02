@@ -13,25 +13,25 @@ https://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-p.m3u8?sd
 https://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_720_av-p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://futebolplayhd.com/imagens-futebol/80c5121d2fa5a071d35fd0856f42f425.jpg" group-title="ESPORTES",FOX SPORTS
-https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/foxsports_8a1beaee_16ff0111e05d07cf2717eecc70c8d60fa631f5dc/playlist.m3u8
+https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/foxsportshd_98fbc42f_49a1b05690f4f382d2e4cd17819f8b34876396bc/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://futebolplayhd.com/imagens-futebol/b16e46dbbc37d4b4b6e1fe359bfa60b7.jpg" group-title="ESPORTES",FOX SPORTS 2
-https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/foxsports2_fc8d9e6e_a689fe34b9a08c70255d8142b2c288e3c1d1be9c/playlist.m3u8
+https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/foxsports2_fc8d9e6e_7e9f8c8ebbdad70890aa3c85cbf7a4dd12b830b1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTpOQl0-bqF08cfUXhh5mo4B4mN618rLh4yKQ&usqp=CAU" group-title="ESPORTES",REAL MADRID TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8#1
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://3.bp.blogspot.com/-9DxKW3IEWTU/V3M6j1PIJKI/AAAAAAAAtn8/34FjGZ_hoSA7LxQ-XAs5qkqZKiQ79dJdwCKgB/s640/SporTV.png" group-title="ESPORTES",SPORTV
-https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/sportv_91dfde1d_d3930c7875408703e557dbba8cb2a9fc3a364310/playlist.m3u8
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/sportv_91dfde1d_a682e3c4a76fb49f2f4b3900763c75471cd81ae5/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.miptv.ws/SporTV_2.png" group-title="ESPORTES",SPORTV 2
-https://edge-aws.aovivotv.xyz/hls/s:88.198.163.51/sportv2_22ab0e43_2f8b102f0ea061eeb6317536d6c75934616158bf/playlist.m3u8
+https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/sportv2_22ab0e43_2324fcf29e2f80f35b205c29d44707c4a3bc1a93/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.minhaoperadora.com.br/wp-content/uploads/2015/01/canalsportv3hdnaskymgm.jpg" group-title="ESPORTES",SPORTV 3
-https://edge-aws.aovivotv.xyz/hls/s:88.198.163.51/sportv3_e1a864f0_20efdb3bca7e0f2276be6ff2686af8d90146c0c6/playlist.m3u8
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/sportv3_e1a864f0_e2f3758aa36d08c8613e9638d4f4f96ed8c4a1af/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTV9xH4LDY5C7MRAXoCZVY39O9SuvPSPpiyhQ&usqp=CAU" group-title="ESPORTES",BAND SPORTS
-https://edge-aws.aovivotv.xyz/hls/s:88.198.163.51/bandsports_f53eac2e_432c43f8d92a770105d3d0965a16e53decd2132f/playlist.m3u8
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/bandsports_f53eac2e_ce2e16e7395ac6e52c3dfb8bfd66c58446776a82/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/a/a2/Premiere_combate.png/revision/latest?cb=20130519152220" group-title="ESPORTES",COMBATE
 https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/combate_ac3478d6_c6ca7db7e81951166146f8a1f9ad0ee5c3b13491/playlist.m3u8
