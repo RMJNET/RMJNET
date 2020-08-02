@@ -19,7 +19,7 @@ https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/tntseries_3bb18d9a_8ec31f35e
 https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/discoveryhomehealth_84582c1d_32c3a43ca9322900f6e773eb16e636f480cfd5df/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://img2.gratispng.com/20180604/bpp/kisspng-comedy-central-television-channel-logo-tv-televisi-5b1588fb09b766.2558234715281379790398.jpg" group-title="ALTERNATIVO", Comedy Central
-https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/comedycentral_17037754_db1c4c556d3683a05596152211cc0ff4641ed21c/playlist.m3u8
+https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/comedycentral_17037754_aa6cdd526819c4a09702df90996550ec24e32307/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/462/535/png-transparent-warner-tv-television-channel-wb-channel-warner-bros-wbtv-the-warner-channel-uk-television-emblem-logo.png" group-title="ALTERNATIVO",Warner TV
 https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/warnerchannel_0a57cb53_18e1dbd24e62b670c347acf50c4c04041a07ba05/playlist.m3u8
@@ -76,7 +76,7 @@ https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/telecinepipocahd_ae7329c9_26
 https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/telecinepremiumhd_a8a2b30f_2d02c919e6e90a74810cf9bd70cd5d57646fbef9/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSgKQl3cQLAC2_GM3yDHjiAJMXoTOW2RlxFzg&usqp=CAU" group-title="ALTERNATIVO",Telecine Action
-https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/telecineactionhd_be2793cd_eab95a1f681bb83b352a2f880946937992dd1e79/playlist.m3u8
+https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/telecineaction_be057d4c_9f4709a9ee5d522f7bd62b7a9b0594b3d0e7c1eb/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSps6B271Aq2Y-dm4eQ57LU2hjvHeq96nU77g&usqp=CAU" group-title="ALTERNATIVO",Telecine Fun
 https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/telecinefun_ae1e7198_8e2609b2e147e0d3969783f47d24239765a05c39/playlist.m3u8
