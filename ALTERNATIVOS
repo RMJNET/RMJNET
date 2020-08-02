@@ -52,7 +52,7 @@ https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/megapix_a6f16ab4_b01eb0ead99
 https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/fox_5a5b0f9b_0a8ba5b7e98a97d338e252e70ec0a5e4c0daa72c/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/640px-Cinemax_%28Yellow%29.svg.png" group-title="ALTERNATIVO",Cinemax
-https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/cinemax_22d200f8_d747f5102c3f172b8169ad2b87b24b329656e940/playlist.m3u8
+https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/cinemaxhd_49117359_ae044c7d5db84ae873d2635b60af51a2884f692f/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="ALTERNATIVO",AXN
 https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/axn_cb7a1d77_8ab3f820d5b633f946e48013cb0871e94b5117d9/playlist.m3u8
