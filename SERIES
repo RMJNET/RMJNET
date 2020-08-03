@@ -24,6 +24,18 @@ A série "Bones" gira em torno da Dra. Temperance Brennan, uma exímia antropól
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <channels>
 <channel>
+<name>[COLOR cyan]Defiance[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1LnkD9QZWo2dPoB82f8jyRk9ukh.jpg</thumbnail>
+<externallink>XXXXXXXXXXXXXXXXXXXXXXXXX</externallink>
+<fanart>https://image.tmdb.org/t/p/original/quduF2vJhbNon8grqkkPSrOeSUt.jpg</fanart>
+<info>Sinopse
+A série, situada na Terra após a guerra causada pela chegada de aliení­genas, acompanha Jeb Nolan (Grant Bowler) e seu retorno à cidade de St. Louis. Agora chamada de Defiance, o lugar serve como campo de refugiados onde vivem humanos e aliení­genas civis. Rapidamente ele assume o controle do lugar, atuando como o xerife, enfrentando toda espécie de criminosos. Jeb tem como assistente a jovem Irisa (Stephanie Leonidas), uma guerreira alienígena da raça Irathients que ele adotou depois de matar seu pai.</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<channels>
+<channel>
 <name>[COLOR cyan]Deus me adicionou[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/31iAuSaD54jvhsXZbctWs9BrZo1.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/RMJNET/RMJNET/master/DMA</externallink>
