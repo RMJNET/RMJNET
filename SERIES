@@ -12,6 +12,18 @@ Quando a detetive Rebecca Madsen (Sarah Jones) é designada para investigar um h
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <channels>
 <channel>
+<name>[COLOR cyan]Arquivo X[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/p0uhiJmkzlJsvTyn0KKiLwrwGwA.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RMJNET/RMJNET/master/ARQUIVOX</externallink>
+<fanart>https://image.tmdb.org/t/p/original/ucyQMoSTH5FkCcQl4G4rLMtRSsJ.jpg</fanart>
+<info>Sinopse
+Dana Scully (Gillian Anderson) e Fox Mulder (David Duchovny), dois agentes do FBI investigam casos não solucionados, estranhos e inexplicáveis que envolvem fenômenos paranormais.</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<channels>
+<channel>
 <name>[COLOR cyan]Battle Creek[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5oqPaAiwflr1o4PlNvkAGRC9DCX.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/RMJNET/RMJNET/master/CREEK</externallink>
