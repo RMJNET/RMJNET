@@ -127,7 +127,17 @@ Elementar leva Sherlock Holmes para a Nova York dos dias de hoje. Na história d
 Quando o analista da CIA Jack Ryan esbarra em uma série de transferências bancárias suspeitas, sua busca por respostas o afasta da segurança de sua mesa de trabalho e o joga em um jogo mortal de gato e rato pela Europa e pelo Oriente Médio, com um terrorista em ascensão preparando um grande ataque contra os EUA e seus aliados.</info>
 </channel>
 </channels>
-
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<channels>
+<channel>
+<name>[COLOR cyan]Jogo de Espiões[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vDw6JCPcMbGYaeMWz1AEcwdlGaA.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RMJNET/RMJNET/master/ESPIOES</externallink>
+<fanart>https://image.tmdb.org/t/p/original/dQvzhgNcZXtxS63C0v7OVyErrE1.jpg</fanart>
+<info>Sinopse
+O agente do FBI Will Chase recebe a missão de trabalhar ao lado da agente da CIA Francesca Frankie Trowbridge. Juntos, os dois lideram uma equipe de espiões, que periodicamente salva o mundo, enquanto lidam com amizades, romances e políticos.</info>
+</channel>
+</channels>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <channels>
 <channel>
