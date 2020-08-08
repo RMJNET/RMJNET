@@ -44,7 +44,17 @@ Nessa dramédia policial mal-intencionada, um agente do FBI incrivelmente bonito
 A série "Bones" gira em torno da Dra. Temperance Brennan, uma exímia antropóloga forense que trabalha no Instituto Jeffersonian e cujo passatempo é escrever romances policiais. Ela é chamada para ajudar nas investigações policiais de assassinato sempre que não é possível identificar a vítima pelos métodos tradicionais, seja porque o corpo está decomposto, foi carbonizado ou está totalmente desfigurado. O talento e a experiência de Brennan recaem em sua grande habilidade de desvendar as pistas ocultas que se escondem por trás do cadáver e/ou ossada das vitimas. Nesta terceira temporada, a dupla Booth/Brennan está atrás de um serial killer que assusta a cidade e toda a equipe de peritos se envolve numa investigação que promete ser uma das melhores “caçadas” da televisão.</info>
 </channel>
 </channels>
-
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<channels>
+<channel>
+<name>[COLOR cyan]Carter[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xMnL93IC07LPg8sqZppnSPxxSEq.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RMJNET/RMJNET/master/CARTER</externallink>
+<fanart>https://image.tmdb.org/t/p/original/yM1fNDKZDSdjhTDPvbid4YwWYNN.jpg</fanart>
+<info>Sinopse
+Harley Carter (Jerry O'Connell) era o protagonista de uma famosa série investigativa, mas um surto público mancha a sua carreira em Hollywood irreversivelmente. Forçado a voltar para sua pequena cidade natal no Canadá, ele se vê envolvido em misteriosos crimes da vida real e resolve usar sua experiência como ator para se tornar um detetive de verdade. Com a ajuda de seus amigos de infância, a policial Sam Shaw (Sydney Poitier-Heartsong) e o dono de um café Dave Leigh (Kristian Bruun).</info>
+</channel>
+</channels>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <channels>
 <channel>
@@ -56,7 +66,6 @@ A série "Bones" gira em torno da Dra. Temperance Brennan, uma exímia antropól
 Conheça Richard Castle: ele é um bem sucedido escritor de mistério de assassinatos, que acabou de matar o seu personagem principal. No entanto, parece que um de seus fãs gostou de seus livros um pouco demais quando um assassino copiador começa a matar pessoas ao redor, como descrito nos livros de Castle. Depois de ter sido interrogado pela polícia, Richard junta forças com a detetive Kate Beckett para resolver este caso. Os dois se tornam parceiros e começam a trabalhar juntos para resolver outros assassinatos em Nova York, juntamente com outros detetives Tony Esposito, Kevin Ryan e Capitão Roy Montgomery. Eles também trabalham com a médica-legista Lanie Parish. A família de Richard inclui sua mãe Martha Rodgers, que era uma diva da Broadway e sua filha Alexis.</info>
 </channel>
 </channels>
-
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <channels>
 <channel>
@@ -68,7 +77,19 @@ Conheça Richard Castle: ele é um bem sucedido escritor de mistério de assassi
 Um gênio do computador, Chuck Bartowski, abre um e-mail que foi codificado com segredos vitais do governo, provocando uma transferência massiva de dados importantes direto no seu cérebro. Assassinos e terroristas internacionais querem Chuck.</info>
 </channel>
 </channels>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<channels>
+<channel>
+<name>[COLOR cyan]Continuum[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bI2gMnLENFRmcnL40wjP7SzhGIL.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RMJNET/RMJNET/master/CONTINUUM</externallink>
+<fanart>https://image.tmdb.org/t/p/original/yB8WtJjSqQNVrv1LiyFlld20rDE.jpg</fanart>
+<info>Sinopse
+É centrada em Kiera Cameron (Rachel Nichols), uma policial do ano de 2077 que viaja ao passado quando alguns dos criminosos mais perigosos de sua época conseguem atravessar uma fissura no tempo e acabam aparecendo no tempo atual. A missão de Kiera é capturar os foragidos antes que eles acabem mudando o curso do futuro.
 
+Para piorar, sua mais poderosa arma, que também funciona como dispositivo de comunicação, não está funcionando, obrigando a policial a utilizar dos recursos “obsoletos” do início do século, e contando com a ajuda de um gênio da tecnologia do nosso tempo (Erik Knudson).</info>
+</channel>
+</channels>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <channels>
 <channel>
