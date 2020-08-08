@@ -182,7 +182,6 @@ Magnum P.I. é uma série de ação sobre um ex-integrante da marinha americana 
 A saga de um guerreiro solitário, que também é um mercenário e pistoleiro, viajando pelos territórios esquecidos e marginais do espaço, logo após a queda do Império e antes da criação da temida Primeira Ordem.</info>
 </channel>
 </channels>
-
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <channels>
 <channel>
@@ -194,7 +193,35 @@ A saga de um guerreiro solitário, que também é um mercenário e pistoleiro, v
 Patrick Jane é famoso por sua habilidade de alta percepção de tudo que está ao seu redor. Ele já quase foi uma celebridade, alegando ser médium vidente, mas agora admite que fingia ter poderes paranormais. Com sua grande habilidade de observação, Patrick trabalha como consultor independente para as autoridades da Califórnia, resolvendo um número considerável de crimes complicados.</info>
 </channel>
 </channels>
-
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<channels>
+<channel>
+<name>[COLOR cyan]Star Trek: The Original Series[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/f2wbC7fxiOJqzTb6HPr4N6bsjLF.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RMJNET/RMJNET/master/STARTREKORIGINAL</externallink>
+<fanart>https://image.tmdb.org/t/p/original/oJG4iCmpRQ0k4VRpwtF9vu2Gxus.jpg</fanart>
+<info>Sinopse
+O imperturbável Cap. James T. Kirk leva a icônica e intergalática tripulação da USS Enterprise nesta série pioneira sobre a exploração espacial.</info>
+</channel>
+</channels>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<name>[COLOR cyan]Star Trek: Enterprise[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/nVRMbEXFiccxVhFCrEyo1T24FhX.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RMJNET/RMJNET/master/STARTREKENTER</externallink>
+<fanart>https://image.tmdb.org/t/p/original/gH5HQbMsSfPc0R41JYTefjB7klZ.jpg</fanart>
+<info>Sinopse
+Enterprise é a quinta série televisiva com atores reais situada no universo de Jornada nas Estrelas. Criada por Rick Berman e Brannon Braga e baseada na clássica série de Jornada nas Estrelas de 1966 (e nas outras séries seguintes) de Gene Roddenberry, Enterprise foi uma prequel que se passava um século antes da época de Kirk e Spock. A série mostrava as viagens da primeira nave estelar Enterprise e os primeiros passos da humanidade na fronteira final.</info>
+</channel>
+</channels>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<name>[COLOR cyan]Star Trek: Picard[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bxeUU8mLy00gDQ2pegxDMRxBA8i.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RMJNET/RMJNET/master/STARTREKPICARD</externallink>
+<fanart>https://image.tmdb.org/t/p/original/ilJpKKQZ7WGCnSTSRsZov9CIrvJ.jpg</fanart>
+<info>Sinopse
+Jornada nas Estrelas: Picard apresenta o Sir Patrick Stewart revivendo seu icônico papel como Jean-Luc Picard, que ele interpretou durante sete temporadas em Jornada nas Estrelas: A Nova Geração. A nova série acompanhará este personagem icônico no capítulo seguinte de sua vida.</info>
+</channel>
+</channels>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <channels>
 <channel>
