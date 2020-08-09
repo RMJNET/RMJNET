@@ -140,6 +140,17 @@ Elementar leva Sherlock Holmes para a Nova York dos dias de hoje. Na história d
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <channels>
 <channel>
+<name>[COLOR cyan]Hawaii Five-0[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y8QtBv7nyS2Auo0PNNgX9Hrh1Uz.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RMJNET/RMJNET/master/HAWAIIFIVE</externallink>
+<fanart>https://image.tmdb.org/t/p/original/hCq9YmNds5TsoABRwU9ytKt7fXz.jpg</fanart>
+<info>Sinopse
+A equipe especial de policiais, liderada pelo comandante Steve McGarret, recebeu carta branca da governadora do Havaí para fazer o que for preciso para erradicar o crime na ilha.</info>
+</channel>
+</channels>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<channels>
+<channel>
 <name>[COLOR cyan]Jack Ryan[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1raUrQr8Y2tSYjTDbk8wfWGKTmX.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/RMJNET/RMJNET/master/JACKRYAN</externallink>
