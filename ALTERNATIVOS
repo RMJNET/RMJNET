@@ -28,7 +28,7 @@ https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/warnerchannel_0a57cb53_18
 https://edge-aws.aovivotv.xyz/hls/s:88.198.163.51/studiouniversal_8b4753ed_64c010e3545cbf6652dea82550f280ca092acb24/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/412SFVFxvNL.png" group-title="ALTERNATIVO",TNT
-https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/tnt_9109c85a_fea5d846dac436a2f0412bb8a24fcc63244555d3/playlist.m3u8
+https://rcstream.belugacdn.link/a/hls1/tnt.m3u8?expires=1597282686&token=ae206d3e3bc76b77441285eb50d2ca18
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FX-logo.svg/1200px-FX-logo.svg.png" group-title="ALTERNATIVO",FX
 https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/fx_667be543_68544a84a0576322a490446f555532fd8d4bb308/playlist.m3u8
