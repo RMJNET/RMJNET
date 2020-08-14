@@ -247,6 +247,17 @@ Duzentos anos no futuro, um detetive interespacial, o capitão de uma nave e uma
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <channels>
 <channel>
+<name>[COLOR cyan]The FIX[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6NfIhX3XjH7IBvUnctnhxoWnwRF.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RMJNET/RMJNET/master/FIX</externallink>
+<fanart>https://image.tmdb.org/t/p/original/6mLQwo1jqY0vsRGEvvdryJccCgS.jpg</fanart>
+<info>Sinopse
+Maya Travis, uma promotora profissional de Los Angeles, se aposentou depois de perder um caso de assassinato duplo de alta visibilidade, mas quando o assassino ataca novamente, ela retorna para buscar justiça do seu próprio jeito.</info>
+</channel>
+</channels>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<channels>
+<channel>
 <name>[COLOR cyan]The Witcher[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/A2oBYUKgjdy0UeIP88kkdyjw8z6.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/RMJNET/RMJNET/master/WITCHER</externallink>
