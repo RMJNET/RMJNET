@@ -181,7 +181,17 @@ O agente do FBI Will Chase recebe a missão de trabalhar ao lado da agente da CI
 Magnum P.I. é uma série de ação sobre um ex-integrante da marinha americana que retorna do Afeganistão e usa suas habilidades de militar para se tornar um investigador privado no Havaí.</info>
 </channel>
 </channels>
-
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<channels>
+<channel>
+<name>[COLOR cyan]NOMADE 7[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/z5m7he2YII5OEcTZUyJbkw8AuDG.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RMJNET/RMJNET/master/NOMADEM</externallink>
+<fanart>https://image.tmdb.org/t/p/original/9Bif473sS40d1Tyx0DyIfpcW8M5.jpg</fanart>
+<info>Sinopse
+Daniel é o personagem principal… Ele morre de forma trágica e, misteriosamente, volta à vida. Sem entender o porquê, achando que tudo não passa de um pesadelo, Daniel começa a ouvir vozes e pensa estar louco. Todos os nossos hábitos e crenças são colocador em xeque pela voz, identificada como Nômade. De personalidade fria, ela desconhece qualquer tipo de emoção e sentimento.</info>
+</channel>
+</channels>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <channels>
 <channel>
@@ -202,6 +212,17 @@ A saga de um guerreiro solitário, que também é um mercenário e pistoleiro, v
 <fanart>https://image.tmdb.org/t/p/original/jZDYpNwh8KL7n2Io5bECBm5giz3.jpg</fanart>
 <info>Sinopse
 Patrick Jane é famoso por sua habilidade de alta percepção de tudo que está ao seu redor. Ele já quase foi uma celebridade, alegando ser médium vidente, mas agora admite que fingia ter poderes paranormais. Com sua grande habilidade de observação, Patrick trabalha como consultor independente para as autoridades da Califórnia, resolvendo um número considerável de crimes complicados.</info>
+</channel>
+</channels>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<channels>
+<channel>
+<name>[COLOR cyan]STARGIRL[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sWSGc3Bb7aCTOPvAIkkhqI7ae9H.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RMJNET/RMJNET/master/STARGIRL</externallink>
+<fanart>https://image.tmdb.org/t/p/original/patQkA8aQ4ZhevWSpPLninFlmYc.jpg</fanart>
+<info>Sinopse
+Stargirl conta a história de Courtney Whitmore (Brec Bassinger), estudante forçada a se mudar para uma nova cidade, depois que sua mãe se casa novamente. Ela só não esperava que seu padrasto, Pat Dugan (Luke Wilson), costumava ser Stripesy, o braço direito do herói Starman (Joel McHale). Armada com seu bastão mágico, ela vai acabar inspirando uma nova geração de heróis inusitados.</info>
 </channel>
 </channels>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
