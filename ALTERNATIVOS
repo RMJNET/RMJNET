@@ -1,97 +1,98 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/5/5b/Logo_gshd.png/revision/latest/scale-to-width-down/340?cb=20190209221002" group-title="ALTERNATIVO",+ Globosat
-https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/globosat_30222b26_139efc6b11de1b9efd4c062a6cf1184e55e6386e/playlist.m3u8
+https://rcstream.belugacdn.link/a/hls1/maisbobosat.m3u8?expires=1597491465&token=dcf9eb059606f11df72709cbe6566ed1
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://img2.gratispng.com/20180601/cgc/kisspng-paramount-pictures-paramount-channel-television-ch-mountain-logo-5b11a1db31ebe7.6027270915278822032045.jpg" group-title="ALTERNATIVO",Paramount Channel
-https://edge-aws.aovivotv.xyz/hls/s:88.198.163.51/paramountchannel_efa260ad_956f0b3788b4c7d9be80fe5f76dda2a99af2d98b/playlist.m3u8
+https://rcstream.belugacdn.link/a/hls1/paramount.m3u8?expires=1597490436&token=6c62fe9fda5009268a516103ed27963a
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://omeioartistico.files.wordpress.com/2018/08/logo_space.jpg" group-title="ALTERNATIVO",Space
-https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/space_e6c3dd63_83dec0fff9ed7e847e545eedc09dd09c96ce7f2a/playlist.m3u8
+https://rcstream.belugacdn.link/a/hls1/space.m3u8?expires=1597490450&token=57e6f9cbad4c107677dcaea62f3a95fc
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://img2.gratispng.com/20180417/lqq/kisspng-universal-channel-television-channel-television-sh-tv-shows-5ad62001d1f0c7.3271560015239823378599.jpg" group-title="ALTERNATIVO",Universal Channel
-https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/universalchannel_8290abc6_ac8f36f921ed41e0ac4cd5d8f6bf5e0e5a848f12/playlist.m3u8
+https://rcstream.belugacdn.link/a/hls1/universal.m3u8?expires=1597491803&token=2020c3a1ec903650610dd6a06ed6acc2
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tntseries.png" group-title="ALTERNATIVO",TNT Series
-https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/tntseries_3bb18d9a_8ec31f35e1b969be208e7f6e5f2b817c9285cceb/playlist.m3u8
+https://rcstream.belugacdn.link/a/hls1/tntseries.m3u8?expires=1597490932&token=b8e25192c2da9e3495543dac436e3ee7
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1032703404328538112/6rYEqx6g_400x400.jpg" group-title="ALTERNATIVO",Discovery Home & Health
-https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/discoveryhomehealth_84582c1d_32c3a43ca9322900f6e773eb16e636f480cfd5df/playlist.m3u8
+https://rcstream.belugacdn.link/a/hls1/discoveryhomeihealth.m3u8?expires=1597491452&token=fcc9168476e751bb53afce71f798b8d2
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://img2.gratispng.com/20180604/bpp/kisspng-comedy-central-television-channel-logo-tv-televisi-5b1588fb09b766.2558234715281379790398.jpg" group-title="ALTERNATIVO", Comedy Central
-https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/comedycentral_17037754_aa6cdd526819c4a09702df90996550ec24e32307/playlist.m3u8
+https://rcstream.belugacdn.link/a/hls1/comedycentral.m3u8?expires=1597491458&token=052d4011ecd6a7d8e4f3c826c76acf32
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/462/535/png-transparent-warner-tv-television-channel-wb-channel-warner-bros-wbtv-the-warner-channel-uk-television-emblem-logo.png" group-title="ALTERNATIVO",Warner TV
-https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/warnerchannel_0a57cb53_18e1dbd24e62b670c347acf50c4c04041a07ba05/playlist.m3u8
+https://rcstream.belugacdn.link/a/hls1/warner.m3u8?expires=1597490949&token=a88feb6199948601ad84010dee5f1930
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSDOmeJQWzgO1fnsjxkRVvCJdBICxCMsgIUBg&usqp=CAU" group-title="ALTERNATIVO",Studio Universal
-https://edge-aws.aovivotv.xyz/hls/s:88.198.163.51/studiouniversal_8b4753ed_64c010e3545cbf6652dea82550f280ca092acb24/playlist.m3u8
+https://rcstream.belugacdn.link/a/hls1/studiouniversal.m3u8?expires=1597491479&token=f449277f26f2e5e43b015b689d2d62c6
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/412SFVFxvNL.png" group-title="ALTERNATIVO",TNT
-https://rcstream.belugacdn.link/a/hls1/tnt.m3u8?expires=1597282686&token=ae206d3e3bc76b77441285eb50d2ca18
+https://rcstream.belugacdn.link/a/hls1/tnt.m3u8?expires=1597490934&token=4fa54a72a3280f589cee93369b8e24ad
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FX-logo.svg/1200px-FX-logo.svg.png" group-title="ALTERNATIVO",FX
-https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/fx_667be543_68544a84a0576322a490446f555532fd8d4bb308/playlist.m3u8
+https://rcstream.belugacdn.link/a/hls1/fx.m3u8?expires=1597491819&token=f36f150d42289c188f01e12a7d06c0e8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://1.bp.blogspot.com/-Z5nKSvNIvY8/XtWAnATiD6I/AAAAAAAANCY/fCpOtRju8BorHAWLyMTLtfSV2lYi9EozACLcBGAsYHQ/s1600/ViewImage.aspx.jpg" group-title="ALTERNATIVO",Canal Brasil
-https://stream.ec.cx/a/hls1/canalbrasil.m3u8?expires=1594593841&token=b55b7251306ed945632ba8f617714f52
+https://rcstream.belugacdn.link/a/hls1/canalbrasil.m3u8?expires=1597492707&token=4999c5b87de3cdb7488dab27cb2dc519
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2000&h=1333&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2017%2F05%2Fdefault-2000.jpg" group-title="ALTERNATIVO",SYFY
-https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/syfy_097ccd4f_b34cd3cdc2bdfd0fbca314a79af49c15c5b10974/playlist.m3u8
+https://rcstream.belugacdn.link/a/hls1/syfy.m3u8?expires=1597490441&token=a2f20575e3ec7de06cf505992d053d97
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRprgPKFDvcjCei_rPVBziIKvmgcEyhY_redQ&usqp=CAU" group-title="ALTERNATIVO",TCM
-https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/tcm_13b72490_93f3cea417d4fdf630a91a4e340fd3bd649a6a6d/playlist.m3u8
+https://rcstream.belugacdn.link/a/hls1/tcm.m3u8?expires=1597491839&token=a7ff8e7232a0e449ccd7e3c22057bd22
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS68CT8sk6lT-5wHFO4xQx1AfmtmBSV747oSQ&usqp=CAU" group-title="ALTERNATIVO",Canal Sony
-https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/sony_06349be7_f8f69f78b7afaafa4bce5a4115925c73ad615558/playlist.m3u8
+https://rcstream.belugacdn.link/a/hls1/tntseries.m3u8?expires=1597490932&token=b8e25192c2da9e3495543dac436e3ee7
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://media-exp1.licdn.com/dms/image/C510BAQEQQMZUQLpV3g/company-logo_200_200/0?e=2159024400&v=beta&t=5mmXPews8Ea5cs-jj5omc339OaRTTYZA93qWSFXwk_A" group-title="ALTERNATIVO",Megapix
-https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/megapix_a6f16ab4_b01eb0ead99dd23a3ffc67b876e0f66ee7c4b687/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn6.aptoide.com/imgs/e/1/a/e1aa5fad2f311c6f795dbfb50a4e64ad_icon.png" group-title="ALTERNATIVO",Fox Channel
-https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/fox_5a5b0f9b_0a8ba5b7e98a97d338e252e70ec0a5e4c0daa72c/playlist.m3u8
+https://rcstream.belugacdn.link/a/hls1/fox.m3u8?expires=1597490922&token=447877d6b47a2ec1d7110e0f0cc1cf6e
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/640px-Cinemax_%28Yellow%29.svg.png" group-title="ALTERNATIVO",Cinemax
-https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/cinemaxhd_49117359_ae044c7d5db84ae873d2635b60af51a2884f692f/playlist.m3u8
+https://rcstream.belugacdn.link/a/hls1/cinemax.m3u8?expires=1597492138&token=439d9d7edb5c987518cf546ff8a34837
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="ALTERNATIVO",AXN
-https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/axn_cb7a1d77_8ab3f820d5b633f946e48013cb0871e94b5117d9/playlist.m3u8
+https://rcstream.belugacdn.link/a/hls1/axn.m3u8?expires=1597492131&token=5fb68ff64ce17699f3c1e0c9fdc9e033
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://seeklogo.com/images/A/amc-logo-36BD2C5A01-seeklogo.com.png" group-title="ALTERNATIVO",AMC
-https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/amcbrasil_b7f5113f_1b73e7881c7df31c47209a5cba1cdb6ddabd21a9/playlist.m3u8
+https://rcstream.belugacdn.link/a/hls1/amc.m3u8?expires=1597492144&token=1cb72b426bc986b71ff22e4d344227fa
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://futebolplayhd.com/imagens-futebol/f87a65d38810145cc49e01d0a3b40797.jpg" group-title="ALTERNATIVO",Fox Premium 1
-https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/foxpremium1_1bdf1a2f_70c6229d14f69ecf3b286ea1ecccd942188f793a/playlist.m3u8
+https://rcstream.belugacdn.link/a/hls1/foxpremium1.m3u8?expires=1597492379&token=9258e8195dc6de3e4422432fca9682de
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://4.bp.blogspot.com/-KATwSXdE1N8/WVFFrnyvw_I/AAAAAAAA71Q/75emLv__83shElTTDzUqADJ9aobGvP-gACPcBGAYYCw/w1200-h630-p-k-no-nu/FOX%2BPremium%2B2.png" group-title="ALTERNATIVO",Fox Premium 2
-https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/foxpremium2_2456caf1_02e66ce9c86c1d14a58388f02e563812f977564a/playlist.m3u8
+https://rcstream.belugacdn.link/a/hls1/foxpremium2.m3u8?expires=1597492387&token=11183ce05818479eb5fe4b30c35bff0f
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/1280px-A%26E-Network-Logo.svg.png" group-title="ALTERNATIVO",A&E
-https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/aemundo_c28aca23_01f1e6051bef035975befb9886b712ef3180d8b8/playlist.m3u8
+https://rcstream.belugacdn.link/a/hls1/aie.m3u8?expires=1597492153&token=8d5f2af915d35c326fec7fcadaa6bf5e
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcShACvCj8h7QNd0zFU36Mqb1aysHun0NCe70A&usqp=CAU" group-title="ALTERNATIVO",Telecine Pipoca
-https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/telecinepipocahd_ae7329c9_26b5f2641b8a52ae2f98fb22a7d7f8fae0cd0aab/playlist.m3u8
+https://rcstream.belugacdn.link/a/hls1/telecinepipoca.m3u8?expires=1597492710&token=370f67eb051873a54f03ca50d2a9c813
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5-vW0Z-v2mbdo861YHS4zPiMm2ca6tjCPP7JtkqJuRRoCdoE&s" group-title="ALTERNATIVO",Telecine Premium
-https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/telecinepremiumhd_a8a2b30f_2d02c919e6e90a74810cf9bd70cd5d57646fbef9/playlist.m3u8
+https://rcstream.belugacdn.link/a/hls1/telecinepremium.m3u8?expires=1597492483&token=d5236f307e27f669434fb835f0162bf8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSgKQl3cQLAC2_GM3yDHjiAJMXoTOW2RlxFzg&usqp=CAU" group-title="ALTERNATIVO",Telecine Action
-https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/telecineaction_be057d4c_9f4709a9ee5d522f7bd62b7a9b0594b3d0e7c1eb/playlist.m3u8
+https://rcstream.belugacdn.link/a/hls1/telecineaction.m3u8?expires=1597492495&token=758f8c3f8b7fa6f5c68c2534aefab161
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSps6B271Aq2Y-dm4eQ57LU2hjvHeq96nU77g&usqp=CAU" group-title="ALTERNATIVO",Telecine Fun
-https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/telecinefun_ae1e7198_8e2609b2e147e0d3969783f47d24239765a05c39/playlist.m3u8
+https://rcstream.belugacdn.link/a/hls1/telecinefun.m3u8?expires=1597492484&token=9e61b88e8e3e69405da2aa4be110bdf8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR6GQxtvOIokEjGaCgq78mjk4t62MKRNoA1AA&usqp=CAU" group-title="ALTERNATIVO",Telecine Touch
-https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/telecinetouch_74cbd2c2_1b88b1e9b37d8dd4d3f8f34d8ff166038eff30ea/playlist.m3u8
+https://rcstream.belugacdn.link/a/hls1/telecinetouch.m3u8?expires=1597492492&token=89f7ad14552f1456d1f3c4851d00560d
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRj2AbGomp4bcggqiHOh8iGwJ_TfcdV4h7Gbw&usqp=CAU" group-title="ALTERNATIVO",Telecine Cult
-https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/telecinecult_8d255e1e_c74ffa2f51cb5050db97269f6748f3085be40260/playlist.m3u8
+https://rcstream.belugacdn.link/a/hls1/telecinecult.m3u8?expires=1597492714&token=cdb2e7818a78c5b7b9fda4132606f960
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTd3fU84kIIU98vhn8ivn3attLvt2PuF-lLpA&usqp=CAU" group-title="ALTERNATIVO",TBS
-https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/tbs_91eb375e_a6ca2cdf5938686f97bde3af886944cae840208b/playlist.m3u8
+https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/tbs_91eb375e_bd208ddf83e3932dfa8f80db833b8e7959d0c946/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2015/05/Fox-Life-e1505937657577.png" group-title="ALTERNATIVO",FOX life
-https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/foxlife_66435217_8bd35852a118ddbf3f71fb2c4ce0fa6d615954a2/playlist.m3u8
+https://rcstream.belugacdn.link/a/hls1/foxlife.m3u8?expires=1597491296&token=32ba3fb482118568dddcab5a4679f7ab
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/55/Multishow_logo-laranja.png/revision/latest/scale-to-width-down/340?cb=20121216184223" group-title="ALTERNATIVO",MULTISHOW
-https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/multishow_5f573b82_80c97cf4b0f331980cd4834d9e5d3efb120a44b9/playlist.m3u8
+https://rcstream.belugacdn.link/a/hls1/multishow.m3u8?expires=1597491281&token=5c280a756d3056ea7f2a0bbee738deeb
+
