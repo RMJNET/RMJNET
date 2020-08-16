@@ -1,5 +1,31 @@
 <channels>
 <channel>
+<name>[COLOR cyan]Magos: Contos da Arcadia[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/aAMcPNLzCML40q7qmuB0jrZIcsI.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RMJNET/RMJNET/master/MAGOS</externallink>
+<fanart>https://image.tmdb.org/t/p/original/oTFDGizS4kszfUOG9uBqsIfG3sN.jpg</fanart>
+<info>Sinopse
+O aprendiz de Merlin viaja no tempo e se junta aos heróis de Arcadia em Camelot, às vésperas da batalha entre mundos dominados por humanos, trolls e magia.</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR cyan]Os 3 Lá Embaixo: Contos da Arcadia[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6odQsKnU8d0TQfYxhLlpqRP6xyt.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RMJNET/RMJNET/master/EMBAIXO</externallink>
+<fanart>https://image.tmdb.org/t/p/original/xt657VxFpym2wfKHJ8z9fIOsGkA.jpg</fanart>
+<info>Sinopse
+Ao chegarem à Terra, dois jovens alienígenas em fuga tentam se infiltrar entre humanos e escapar de caçadores de recompensa intergaláticos.</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
 <name>[COLOR cyan]Os Flintstones[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/30P6ifagQ3fguTsI33KMmDLTAx6.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/RMJNET/RMJNET/master/FLINTSTONES</externallink>
