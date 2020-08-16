@@ -1,5 +1,18 @@
 <channels>
 <channel>
+<name>[COLOR cyan]Ben 10[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pT0NlYVIkwM2zAw9oUkePwrOlxW.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RMJNET/RMJNET/master/BEN10</externallink>
+<fanart>https://image.tmdb.org/t/p/original/eT5tW2zK3JTonRJJgijFQ1Sj5mL.jpg</fanart>
+<info>Sinopse
+Aos 10 anos de idade, Benjamim (Ben) Tennyson descobre um dispositivo alienígena na floresta chamado o Omnitrix, que lhe permite se transformar em 10 diferentes espécies alienígenas. Ao longo de suas férias de verão, viajando o país num furgão com seu avô Max e de sua prima Gwen, Ben luta contra o crime e alienígenas do mal com seus novos poderes, adquirindo a capacidade de se transformar em mais seis novos alienígenas ao longo do caminho.</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
 <name>[COLOR cyan]Magos: Contos da Arcadia[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/aAMcPNLzCML40q7qmuB0jrZIcsI.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/RMJNET/RMJNET/master/MAGOS</externallink>
