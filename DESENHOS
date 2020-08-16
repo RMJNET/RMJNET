@@ -52,6 +52,19 @@ Um adolescente inseguro mas corajoso e inteligente chamado Peter Parker, é pica
 
 <channels>
 <channel>
+<name>[COLOR cyan]Ultimate Homem-Aranha[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vrJ3W38DbHi0J7Y1mjyqXPqGu1L.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RMJNET/RMJNET/master/ULTIMATEARANHA</externallink>
+<fanart>https://image.tmdb.org/t/p/original/fjtttNJpwa6usPstiYuyKMBFQDN.jpg</fanart>
+<info>Sinopse
+No início da série, o estudante Peter Parker (idade aproximada entre 16 , 17, 18 ,19 anos ) está completando cerca de um ano como o Homem-Aranha quando é recrutado por Nick Fury para fazer parte de um programa experimental da S.H.I.E.L.D de treinamento de novos super-heróis. Junto com Peter Parker/Homem- Aranha, participam também do programa quatro outros heróis novatos da mesma faixa de idade: Ava Ayala (Tigresa Branca), Danny Rand (Punho de Ferro), Luke Cage (Power Man), e Sam Alexander (Nova). Os membros do grupo, nas suas identidades civis, passam então a frequentar o colégio de Parker ("Midtown High" na cidade de Nova York), sob a vigilância do agente da S.H.I.E.L.D., Phil Coulson, que se passa pelo diretor da escola. A rotina diária dos adolescentes na escola é mesclada então com sessões de treinamento na fortaleza aérea da S.H.I.E.L.D (o "Helicarrier") e missões atribuídas ao grupo por Fury.</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
 <name>[COLOR cyan]Os Flintstones[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/30P6ifagQ3fguTsI33KMmDLTAx6.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/RMJNET/RMJNET/master/FLINTSTONES</externallink>
