@@ -26,6 +26,32 @@ Ao chegarem à Terra, dois jovens alienígenas em fuga tentam se infiltrar entre
 
 <channels>
 <channel>
+<name>[COLOR cyan]He-Man e os Mestres do Universo[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ol3aiUt0Ui5JYTR2zdpqK1KGQyd.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RMJNET/RMJNET/master/HEMAN</externallink>
+<fanart>https://image.tmdb.org/t/p/original/sZaKY0C1tYf0T8cBZ2B0I0bsiPL.jpg</fanart>
+<info>Sinopse
+He-Man é o homem mais poderoso do universo. Ele enfrenta as forças do mal para salvar o planeta Eternia dos planos de Esqueleto, e proteger os segredos do Castelo de Grayskull.</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR cyan]Marvel's Spider-Man[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dKdcyyHUR5WTMnrbPdYN5y9xPVp.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RMJNET/RMJNET/master/ARANHA</externallink>
+<fanart>https://image.tmdb.org/t/p/original/9zIFxEiurX1zVuBffHjwFRJTXDT.jpg</fanart>
+<info>Sinopse
+Um adolescente inseguro mas corajoso e inteligente chamado Peter Parker, é picado por uma aranha radioativa e recebe poderes. Ele se torna um herói chamado Homem-Aranha.</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
 <name>[COLOR cyan]Os Flintstones[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/30P6ifagQ3fguTsI33KMmDLTAx6.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/RMJNET/RMJNET/master/FLINTSTONES</externallink>
