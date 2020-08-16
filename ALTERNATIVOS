@@ -1,55 +1,55 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/5/5b/Logo_gshd.png/revision/latest/scale-to-width-down/340?cb=20190209221002" group-title="ALTERNATIVO",+ Globosat
-https://rcstream.belugacdn.link/a/hls1/maisbobosat.m3u8?expires=1597491465&token=dcf9eb059606f11df72709cbe6566ed1
+https://rcstream.belugacdn.link/a/hls1/maisbobosat.m3u8?expires=1597574448&token=a8446640354f5873e572c329df840be3
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://img2.gratispng.com/20180601/cgc/kisspng-paramount-pictures-paramount-channel-television-ch-mountain-logo-5b11a1db31ebe7.6027270915278822032045.jpg" group-title="ALTERNATIVO",Paramount Channel
-https://rcstream.belugacdn.link/a/hls1/paramount.m3u8?expires=1597490436&token=6c62fe9fda5009268a516103ed27963a
+https://rcstream.belugacdn.link/a/hls1/paramount.m3u8?expires=1597574426&token=7b8dc57761e6482aae9e277a490f315b
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://omeioartistico.files.wordpress.com/2018/08/logo_space.jpg" group-title="ALTERNATIVO",Space
-https://rcstream.belugacdn.link/a/hls1/space.m3u8?expires=1597490450&token=57e6f9cbad4c107677dcaea62f3a95fc
+https://rcstream.belugacdn.link/a/hls1/space.m3u8?expires=1597575013&token=bc5f323c37279da09f401c0ed5129d23
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://img2.gratispng.com/20180417/lqq/kisspng-universal-channel-television-channel-television-sh-tv-shows-5ad62001d1f0c7.3271560015239823378599.jpg" group-title="ALTERNATIVO",Universal Channel
 https://rcstream.belugacdn.link/a/hls1/universal.m3u8?expires=1597491803&token=2020c3a1ec903650610dd6a06ed6acc2
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tntseries.png" group-title="ALTERNATIVO",TNT Series
-https://rcstream.belugacdn.link/a/hls1/tntseries.m3u8?expires=1597490932&token=b8e25192c2da9e3495543dac436e3ee7
+https://rcstream.belugacdn.link/a/hls1/tntseries.m3u8?expires=1597574479&token=9e56cc5184b00fbed9e6a67215118173
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1032703404328538112/6rYEqx6g_400x400.jpg" group-title="ALTERNATIVO",Discovery Home & Health
-https://rcstream.belugacdn.link/a/hls1/discoveryhomeihealth.m3u8?expires=1597491452&token=fcc9168476e751bb53afce71f798b8d2
+https://rcstream.belugacdn.link/a/hls1/discoveryhomeihealth.m3u8?expires=1597574461&token=0b4ad0ab5426be7f85fe5375872957d4
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://img2.gratispng.com/20180604/bpp/kisspng-comedy-central-television-channel-logo-tv-televisi-5b1588fb09b766.2558234715281379790398.jpg" group-title="ALTERNATIVO", Comedy Central
-https://rcstream.belugacdn.link/a/hls1/comedycentral.m3u8?expires=1597491458&token=052d4011ecd6a7d8e4f3c826c76acf32
+https://rcstream.belugacdn.link/a/hls1/comedycentral.m3u8?expires=1597574474&token=6f3876addc9ee0677e6fc85a893b3a35
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/462/535/png-transparent-warner-tv-television-channel-wb-channel-warner-bros-wbtv-the-warner-channel-uk-television-emblem-logo.png" group-title="ALTERNATIVO",Warner TV
-https://rcstream.belugacdn.link/a/hls1/warner.m3u8?expires=1597490949&token=a88feb6199948601ad84010dee5f1930
+https://rcstream.belugacdn.link/a/hls1/warner.m3u8?expires=1597574494&token=1c973aafb3f5e426e19c406fc67d444c
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSDOmeJQWzgO1fnsjxkRVvCJdBICxCMsgIUBg&usqp=CAU" group-title="ALTERNATIVO",Studio Universal
-https://rcstream.belugacdn.link/a/hls1/studiouniversal.m3u8?expires=1597491479&token=f449277f26f2e5e43b015b689d2d62c6
+https://rcstream.belugacdn.link/a/hls1/studiouniversal.m3u8?expires=1597574429&token=5feaf119f351b54e22563b055d173dc6
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/412SFVFxvNL.png" group-title="ALTERNATIVO",TNT
 https://rcstream.belugacdn.link/a/hls1/tnt.m3u8?expires=1597490934&token=4fa54a72a3280f589cee93369b8e24ad
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FX-logo.svg/1200px-FX-logo.svg.png" group-title="ALTERNATIVO",FX
-https://rcstream.belugacdn.link/a/hls1/fx.m3u8?expires=1597491819&token=f36f150d42289c188f01e12a7d06c0e8
+https://rcstream.belugacdn.link/a/hls1/fx.m3u8?expires=1597574437&token=b324eb1eb28687212c3cf98ed767ca28
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://1.bp.blogspot.com/-Z5nKSvNIvY8/XtWAnATiD6I/AAAAAAAANCY/fCpOtRju8BorHAWLyMTLtfSV2lYi9EozACLcBGAsYHQ/s1600/ViewImage.aspx.jpg" group-title="ALTERNATIVO",Canal Brasil
-https://rcstream.belugacdn.link/a/hls1/canalbrasil.m3u8?expires=1597492707&token=4999c5b87de3cdb7488dab27cb2dc519
+https://rcstream.belugacdn.link/a/hls1/canalbrasil.m3u8?expires=1597574498&token=dff3f87453bec4f6b616084a533622e3
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2000&h=1333&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2017%2F05%2Fdefault-2000.jpg" group-title="ALTERNATIVO",SYFY
-https://rcstream.belugacdn.link/a/hls1/syfy.m3u8?expires=1597490441&token=a2f20575e3ec7de06cf505992d053d97
+https://rcstream.belugacdn.link/a/hls1/syfy.m3u8?expires=1597574432&token=bfae53e756fc5b5f25d32fdc9ee3a83e
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRprgPKFDvcjCei_rPVBziIKvmgcEyhY_redQ&usqp=CAU" group-title="ALTERNATIVO",TCM
-https://rcstream.belugacdn.link/a/hls1/tcm.m3u8?expires=1597491839&token=a7ff8e7232a0e449ccd7e3c22057bd22
+https://rcstream.belugacdn.link/a/hls1/tcm.m3u8?expires=1597575230&token=a0c53dae1654e3045a19894dd229345e
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS68CT8sk6lT-5wHFO4xQx1AfmtmBSV747oSQ&usqp=CAU" group-title="ALTERNATIVO",Canal Sony
-https://rcstream.belugacdn.link/a/hls1/tntseries.m3u8?expires=1597490932&token=b8e25192c2da9e3495543dac436e3ee7
+https://rcstream.belugacdn.link/a/hls1/sony.m3u8?expires=1597574473&token=bf4d1c81cbbb426a7d5b4257ed44d982
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://media-exp1.licdn.com/dms/image/C510BAQEQQMZUQLpV3g/company-logo_200_200/0?e=2159024400&v=beta&t=5mmXPews8Ea5cs-jj5omc339OaRTTYZA93qWSFXwk_A" group-title="ALTERNATIVO",Megapix
-
+https://rcstream.belugacdn.link/a/hls1/megapix.m3u8?expires=1597574483&token=836f283ae5e340b0c7285445bf535358
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn6.aptoide.com/imgs/e/1/a/e1aa5fad2f311c6f795dbfb50a4e64ad_icon.png" group-title="ALTERNATIVO",Fox Channel
-https://rcstream.belugacdn.link/a/hls1/fox.m3u8?expires=1597490922&token=447877d6b47a2ec1d7110e0f0cc1cf6e
+https://rcstream.belugacdn.link/a/hls1/fox.m3u8?expires=1597574475&token=639d22641e1b5ca68c8fdd4a19c15457
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/640px-Cinemax_%28Yellow%29.svg.png" group-title="ALTERNATIVO",Cinemax
 https://rcstream.belugacdn.link/a/hls1/cinemax.m3u8?expires=1597492138&token=439d9d7edb5c987518cf546ff8a34837
@@ -91,8 +91,9 @@ https://rcstream.belugacdn.link/a/hls1/telecinecult.m3u8?expires=1597492714&toke
 https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/tbs_91eb375e_bd208ddf83e3932dfa8f80db833b8e7959d0c946/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2015/05/Fox-Life-e1505937657577.png" group-title="ALTERNATIVO",FOX life
-https://rcstream.belugacdn.link/a/hls1/foxlife.m3u8?expires=1597491296&token=32ba3fb482118568dddcab5a4679f7ab
+https://rcstream.belugacdn.link/a/hls1/foxlife.m3u8?expires=1597574458&token=3e64d5669be8a2a8add4513086a3666d
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/55/Multishow_logo-laranja.png/revision/latest/scale-to-width-down/340?cb=20121216184223" group-title="ALTERNATIVO",MULTISHOW
-https://rcstream.belugacdn.link/a/hls1/multishow.m3u8?expires=1597491281&token=5c280a756d3056ea7f2a0bbee738deeb
+https://rcstream.belugacdn.link/a/hls1/multishow.m3u8?expires=1597574441&token=b63a1a3c2ce260bb5afa026aababb97b
+
 
