@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-0-1.png" group-title="ESPORTES",DAZN
+https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/dazn1_918fc64d_2cbf81ae2ccfc8758528d394c9608451cd040a8b/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://multicanais.com/wp-content/uploads/2019/04/assistir-espn-brasil-ao-vivo-online-1-1.png" group-title="ESPORTES",ESPN BRASIL
 https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-b.m3u8?sd=10
 
