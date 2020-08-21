@@ -184,6 +184,17 @@ Magnum P.I. é uma série de ação sobre um ex-integrante da marinha americana 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <channels>
 <channel>
+<name>[COLOR cyan]Manifest[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lFPHeAedYwKpF1iW83qKXtPoX9B.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RMJNET/RMJNET/master/MANIFEST</externallink>
+<fanart>https://image.tmdb.org/t/p/original/3ib0uov9Qq9JtTIEGL39irTa3vZ.jpg</fanart>
+<info>Sinopse
+Um avião reaparece cinco anos após ter decolado, mas para os passageiros apenas cinco horas se passaram. Antes dados como mortos, agora eles encaram uma realidade misteriosa.</info>
+</channel>
+</channels>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<channels>
+<channel>
 <name>[COLOR cyan]O Mandaloriano[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7CQuB71u4fbZzRARJMBLusFd5eL.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/RMJNET/RMJNET/master/MANDALO</externallink>
