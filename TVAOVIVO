@@ -1,19 +1,18 @@
 #EXTM3U
 
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c58e812f5890bb17b7ea47f918a7d1df.png" group-title="CANAIS ABERTOS",SBT
-https://rcstream.belugacdn.link/a/hls1/sbt.m3u8?expires=1597490202&token=ff13381b69649cf1ffa715c0dc96b2c1
+https://streaming.belugacdn.link/a/hls1/sbt.m3u8?expires=1598075411&token=e9f52f8ac260d4ae07ac2534c5eb6306
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imagem.band.com.br/f_394138.jpg" group-title="CANAIS ABERTOS",BAND
 https://evpp.mm.uol.com.br/geob_band/app/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/66/RedeTV%21_2009.png/revision/latest?cb=20120304194441" group-title="CANAIS ABERTOS",REDE TV
-https://rcstream.belugacdn.link/a/hls1/boborj.m3u8?expires=1597490245&token=752cf215a11718ae4af9cc7eaa9eb2b2
-
+https://streaming.belugacdn.link/a/hls1/redetv.m3u8?expires=1598075439&token=505825dd65adc068c545730e565743fc
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://multicanais.com/wp-content/uploads/2017/12/assistir-globo-online-ao-vivo-24-horas.png" group-title="CANAIS ABERTOS",GLOBO
-https://rcstream.belugacdn.link/a/hls1/boborj.m3u8?expires=1597490245&token=752cf215a11718ae4af9cc7eaa9eb2b2
-
+https://streaming.belugacdn.link/a/hls1/boborj.m3u8?expires=1598075307&token=2dbc615dc375f15e6452048992f16f64
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.hojeemdia.com.br/polopoly_fs/1.47601!/image/image.jpg_gen/derivatives/landscape_653/image.jpg" group-title="CANAIS ABERTOS",RECORD
 https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_480_av-p.m3u8
