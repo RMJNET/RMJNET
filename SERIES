@@ -206,6 +206,17 @@ Patrick Jane é famoso por sua habilidade de alta percepção de tudo que está 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <channels>
 <channel>
+<name>[COLOR cyan]SEAL TEAM[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sWSGc3Bb7aCTOPvAIkkhqI7ae9H.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RMJNET/RMJNET/master/SEAL</externallink>
+<fanart>https://image.tmdb.org/t/p/original/patQkA8aQ4ZhevWSpPLninFlmYc.jpg</fanart>
+<info>Sinopse
+Stargirl conta a história de Courtney Whitmore (Brec Bassinger), estudante forçada a se mudar para uma nova cidade, depois que sua mãe se casa novamente. Ela só não esperava que seu padrasto, Pat Dugan (Luke Wilson), costumava ser Stripesy, o braço direito do herói Starman (Joel McHale). Armada com seu bastão mágico, ela vai acabar inspirando uma nova geração de heróis inusitados.</info>
+</channel>
+</channels>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<channels>
+<channel>
 <name>[COLOR cyan]STARGIRL[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sWSGc3Bb7aCTOPvAIkkhqI7ae9H.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/RMJNET/RMJNET/master/STARGIRL</externallink>
@@ -263,6 +274,17 @@ Duzentos anos no futuro, um detetive interespacial, o capitão de uma nave e uma
 <fanart>https://image.tmdb.org/t/p/original/6mLQwo1jqY0vsRGEvvdryJccCgS.jpg</fanart>
 <info>Sinopse
 Maya Travis, uma promotora profissional de Los Angeles, se aposentou depois de perder um caso de assassinato duplo de alta visibilidade, mas quando o assassino ataca novamente, ela retorna para buscar justiça do seu próprio jeito.</info>
+</channel>
+</channels>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<channels>
+<channel>
+<name>[COLOR cyan]The Rookie[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/arPUIveaNTdlZeSrOPrgof6UvhQ.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RMJNET/RMJNET/master/ROOKIE</externallink>
+<fanart>https://image.tmdb.org/t/p/original/6EwgFPJRhmv20UyJg4GAPgBBuOV.jpg</fanart>
+<info>Sinopse
+Na série, John Nolan, de 40 anos, muda sua vida para ser um agente policial no Departamento de Polícia de Los Angeles.</info>
 </channel>
 </channels>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
