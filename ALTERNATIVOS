@@ -52,7 +52,7 @@ https://streaming.belugacdn.link/a/hls1/megapix.m3u8?expires=1598072383&token=67
 https://streaming.belugacdn.link/a/hls1/fox.m3u8?expires=1598071503&token=7a7083086d7ee12dcdc7c49055c40d2c
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/640px-Cinemax_%28Yellow%29.svg.png" group-title="ALTERNATIVO",Cinemax
-https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/cinemax_22d200f8_3a13225dfa892460f19e532008f8c8be11296c05/playlist.m3u8
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/cinemaxhd_49117359_e5e74a1cfc1ebca8e5252c33ebdfe3bfc4f424e8/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="ALTERNATIVO",AXN
 https://streaming.belugacdn.link/a/hls1/axn.m3u8?expires=1598073090&token=7f2eb198e2acf318add44db93277f4bf
@@ -88,7 +88,7 @@ https://streaming.belugacdn.link/a/hls1/telecinetouch.m3u8?expires=1598072599&to
 https://streaming.belugacdn.link/a/hls1/telecinecult.m3u8?expires=1598073374&token=1c9b769c8d9e6b88994623faadca1a73
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTd3fU84kIIU98vhn8ivn3attLvt2PuF-lLpA&usqp=CAU" group-title="ALTERNATIVO",TBS
-https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/tbs_91eb375e_d3cb281bae06f956f3b714447bd85f8d794af058/playlist.m3u8
+https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/tbs_91eb375e_d3cb281bae06f956f3b714447bd85f8d794af058/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2015/05/Fox-Life-e1505937657577.png" group-title="ALTERNATIVO",FOX life
 https://streaming.belugacdn.link/a/hls1/foxlife.m3u8?expires=1598071797&token=f574867d566d0c9c8bb02afa7649e74f
