@@ -13,47 +13,48 @@ https://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-p.m3u8?sd
 https://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_720_av-p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://futebolplayhd.com/imagens-futebol/80c5121d2fa5a071d35fd0856f42f425.jpg" group-title="ESPORTES",FOX SPORTS
-https://rcstream.belugacdn.link/a/hls1/foxsports1.m3u8?expires=1597641536&token=e258a75f3bb642963dfee8de9d3ecca4
+https://streaming.belugacdn.link/a/hls1/foxsports1.m3u8?expires=1598075829&token=df26531ba2ae300028a3e33000227e85
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://futebolplayhd.com/imagens-futebol/b16e46dbbc37d4b4b6e1fe359bfa60b7.jpg" group-title="ESPORTES",FOX SPORTS 2
-https://rcstream.belugacdn.link/a/hls1/foxsports2.m3u8?expires=1597641531&token=d74918f1732bb854956ef28e95ab91f1
+https://streaming.belugacdn.link/a/hls1/foxsports2.m3u8?expires=1598075794&token=73d652a8c6bbd7633194accfe670c1c3
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTpOQl0-bqF08cfUXhh5mo4B4mN618rLh4yKQ&usqp=CAU" group-title="ESPORTES",REAL MADRID TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8#1
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://3.bp.blogspot.com/-9DxKW3IEWTU/V3M6j1PIJKI/AAAAAAAAtn8/34FjGZ_hoSA7LxQ-XAs5qkqZKiQ79dJdwCKgB/s640/SporTV.png" group-title="ESPORTES",SPORTV
-https://rcstream.belugacdn.link/a/hls1/sportv1.m3u8?expires=1597641325&token=732d6b95f1e02e7de454efba60490b7c
+https://streaming.belugacdn.link/a/hls1/sportv1.m3u8?expires=1598075908&token=49c31aa7bac122d432c88576a5c0015e
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.miptv.ws/SporTV_2.png" group-title="ESPORTES",SPORTV 2
-https://rcstream.belugacdn.link/a/hls1/sportv1.m3u8?expires=1597641325&token=732d6b95f1e02e7de454efba60490b7c
+https://streaming.belugacdn.link/a/hls1/sportv2.m3u8?expires=1598075953&token=793c64d187ab9e8822a47bc932573fe7
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.minhaoperadora.com.br/wp-content/uploads/2015/01/canalsportv3hdnaskymgm.jpg" group-title="ESPORTES",SPORTV 3
-https://rcstream.belugacdn.link/a/hls1/sportv3.m3u8?expires=1597641440&token=2b99659e2a25994a36a3541ed759b109
+https://streaming.belugacdn.link/a/hls1/sportv3.m3u8?expires=1598075986&token=565732bc96f7eae01afa909a7a383106
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTV9xH4LDY5C7MRAXoCZVY39O9SuvPSPpiyhQ&usqp=CAU" group-title="ESPORTES",BAND SPORTS
-https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/bandsports_f53eac2e_ce2e16e7395ac6e52c3dfb8bfd66c58446776a82/playlist.m3u8
+https://streaming.belugacdn.link/a/hls1/bandsports.m3u8?expires=1598076145&token=b620aa039322ec8d254c0dadf0197c77
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/a/a2/Premiere_combate.png/revision/latest?cb=20130519152220" group-title="ESPORTES",COMBATE
-https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/combate_ac3478d6_c6ca7db7e81951166146f8a1f9ad0ee5c3b13491/playlist.m3u8
+https://streaming.belugacdn.link/a/hls1/combate.m3u8?expires=1598076194&token=800ba4c99e5c287f1e13e06967d176d6
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://th.bing.com/th/id/OIP.-ZJm-TBZgKLHe5VEfcdQ5QHaEh?w=276&h=180&c=7&o=5&pid=1.7" group-title="ESPORTES",PREMIERE CLUBES
-https://rcstream.belugacdn.link/a/hls1/premiereclubes.m3u8?expires=1597641454&token=68f6e7c6f03bd8ef5f40f4ad761cd72b
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="ESPORTES",PREMIERE CLUBES
+https://streaming.belugacdn.link/a/hls1/premiereclubes.m3u8?expires=1598076236&token=659c60a3bb4f3ffc56385586f5e6e2d6
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://multicanais.com/wp-content/uploads/2019/05/Premiere-2-.png" group-title="ESPORTES",PREMIERE 2
-https://rcstream.belugacdn.link/a/hls1/premiere2.m3u8?expires=1597641864&token=2ba8e1f1fd54a329fc73b911719c02cd
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="ESPORTES",PREMIERE 2
+https://streaming.belugacdn.link/a/hls1/premiere2.m3u8?expires=1598076285&token=45423e6071b3fb41d61805d9c5faa8f9
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://multicanais.com/wp-content/uploads/2019/05/Premiere-2-.png" group-title="ESPORTES",PREMIERE 3
-https://rcstream.belugacdn.link/a/hls1/premiere3.m3u8?expires=1597641859&token=d2d3df42621e07957b73385e88fd7263
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="ESPORTES",PREMIERE 3
+https://streaming.belugacdn.link/a/hls1/premiere3.m3u8?expires=1598076548&token=857f80c99f55ea663aaed929bf79db36
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://multicanais.com/wp-content/uploads/2019/05/Premiere-2-.png" group-title="ESPORTES",PREMIERE 4
-https://rcstream.belugacdn.link/a/hls1/premiere4.m3u8?expires=1597641857&token=5981f8d6cbcb5475d075d8cde64e4f1f
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="ESPORTES",PREMIERE 4
+https://streaming.belugacdn.link/a/hls1/premiere4.m3u8?expires=1598076609&token=86ec2a705a284ca3b49bfc5c1a981593
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://multicanais.com/wp-content/uploads/2019/05/Premiere-2-.png" group-title="ESPORTES",PREMIERE 5
-https://rcstream.belugacdn.link/a/hls1/premiere5.m3u8?expires=1597641679&token=d902d9c3e66d7fe260cf69e0b74902d0
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="ESPORTES",PREMIERE 5
+https://streaming.belugacdn.link/a/hls1/premiere5.m3u8?expires=1598076659&token=5606656c601d5c7605920827cc4f898b
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://multicanais.com/wp-content/uploads/2019/05/Premiere-2-.png" group-title="ESPORTES",PREMIERE 6
-https://rcstream.belugacdn.link/a/hls1/premiere6.m3u8?expires=1597641675&token=3cbdb1db55e75e3d83bff58af0649052
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="ESPORTES",PREMIERE 6
+https://streaming.belugacdn.link/a/hls1/premiere6.m3u8?expires=1598076692&token=7790101c265ff204c0dcc96c3c5dfa5e
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://multicanais.com/wp-content/uploads/2019/05/Premiere-2-.png" group-title="ESPORTES",PREMIERE 7
-https://rcstream.belugacdn.link/a/hls1/premiere7.m3u8?expires=1597641671&token=4bf71148a386b8c12b67b33a819b7406
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="ESPORTES",PREMIERE 7
+https://streaming.belugacdn.link/a/hls1/premiere7.m3u8?expires=1598076746&token=2db27abdbc1cc5422cc379d241b02f80
+
 
