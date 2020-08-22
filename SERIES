@@ -217,6 +217,17 @@ Patrick Jane é famoso por sua habilidade de alta percepção de tudo que está 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <channels>
 <channel>
+<name>[COLOR cyan]Óvnis: Investigação Secreta[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/aQt2PhMZxq6D7WnQImAjC1tKJf.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RMJNET/RMJNET/master/OVNIS</externallink>
+<fanart>https://image.tmdb.org/t/p/original/g6yKDsrRrSdLDQGZQvbCtpAzf8g.jpg</fanart>
+<info>Sinopse
+Um ex-funcionário do Pentágono compartilha informações sobre um estranho programa de óvnis em execução nos Estados Unidos, conhecido como Programa Avançado de Identificação de Ameaças Aeroespaciais.</info>
+</channel>
+</channels>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<channels>
+<channel>
 <name>[COLOR cyan]SEAL TEAM[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sWSGc3Bb7aCTOPvAIkkhqI7ae9H.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/RMJNET/RMJNET/master/SEAL</externallink>
