@@ -239,6 +239,17 @@ Um ex-funcionário do Pentágono compartilha informações sobre um estranho pro
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <channels>
 <channel>
+<name>[COLOR cyan]Private Eyes[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/HsNFA4ZbjZkAnPtBYJAIORFhPP.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RMJNET/RMJNET/master/PRIVATE</externallink>
+<fanart>https://image.tmdb.org/t/p/original/eWSRzBBNasbrdtbNfXoxbbxuHBm.jpg</fanart>
+<info>Sinopse
+Private Eyes segue o ex-jogador de hóquei Matt Shade (Jason Priestley), que muda irrevogavelmente a sua vida quando decide formar uma parceria com a feroz detetive particular Angie Everett (Cindy Sampson) para formar uma improvável força investigativa. Através de sua nova parceria, Shade é forçado a examinar quem ele se tornou e quem ele quer ser enquanto investigava crimes de alto risco.</info>
+</channel>
+</channels>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<channels>
+<channel>
 <name>[COLOR cyan]Ray Donovan[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/efoy530ArtwcQp4pLvz10or3Fy0.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/RMJNET/RMJNET/master/DONOVAN</externallink>
