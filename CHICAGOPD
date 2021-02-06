@@ -75,3 +75,14 @@ O Distrito 21 do Departamento de Polícia de Chicado é composto pelos policiais
 </channel>
 </channels>
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<channels>
+<channel>
+<name>[COLOR cyan]8ª Temporada[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/OlPR1kctwXzSUJQkZINDDhNlHV.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RMJNET/RMJNET/master/CHICAGOPD8TMP</externallink>
+<fanart>https://image.tmdb.org/t/p/original/pYpstkuLMEWfIt9Lp69w4DAb6M4.jpg</fanart>
+<info>Sinopse
+O Distrito 21 do Departamento de Polícia de Chicado é composto pelos policiais uniformizados que lidam com o crime nas ruas e pela Unidade de Inteligência, que lida com crimes maiores como tráfico de drogas e assassinatos.</info>
+</channel>
+</channels>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
